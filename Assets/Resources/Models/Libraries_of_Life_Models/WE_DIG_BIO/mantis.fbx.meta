@@ -1,0 +1,2528 @@
+fileFormatVersion: 2
+guid: 6c0c08b5c54bd46cb9f2df69de10ef88
+timeCreated: 1488778333
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: front_root
+    100002: head
+    100004: headl
+    100006: ikHandle1
+    100008: ikHandle2
+    100010: ikHandle3
+    100012: ikHandle4
+    100014: l_arm1
+    100016: larm2
+    100018: larm3
+    100020: larm4
+    100022: larml
+    100024: lleg1
+    100026: lleg2
+    100028: lleg3
+    100030: lleg4
+    100032: llegl
+    100034: lmleg1
+    100036: lmleg2
+    100038: lmleg3
+    100040: lmleg4
+    100042: lmlegl
+    100044: //RootNode
+    100046: mantis:Group14191
+    100048: mantis:Group22333
+    100050: mantis:Group25259
+    100052: mantis:Group39851
+    100054: mantis:Group4312
+    100056: mantis:Group47267
+    100058: mantis:Group48424
+    100060: mantis:Group53802
+    100062: mantis:Group65047
+    100064: mantis:Group65048
+    100066: mantis:Group65049
+    100068: mantis:Group65050
+    100070: mantis:Group65051
+    100072: mantis:Group65052
+    100074: mantis:Group65053
+    100076: mantis:Group65054
+    100078: mantis:Group65055
+    100080: mantis:Group65056
+    100082: mantis:Group65057
+    100084: mantis:Group65058
+    100086: mantis:Group65059
+    100088: mantis:Group65060
+    100090: mantis:Group65061
+    100092: mantis:Group65062
+    100094: mantis:Group65063
+    100096: mantis:Group65064
+    100098: mantis:Group65065
+    100100: mantis:Group65066
+    100102: mantis:Group65067
+    100104: mantis:Group65068
+    100106: mantis:Group65069
+    100108: mantis:Group65070
+    100110: mantis:Group65071
+    100112: mantis:Group65072
+    100114: mantis:Group65073
+    100116: mantis:Group65074
+    100118: mantis:Group65075
+    100120: mantis:Group65076
+    100122: mantis:Group65077
+    100124: mantis:Group65078
+    100126: mantis:Group65079
+    100128: mantis:Group65080
+    100130: mantis:Group65081
+    100132: mantis:Group65082
+    100134: mantis:Group65083
+    100136: mantis:Group65084
+    100138: mantis:Group65085
+    100140: mantis:Group65086
+    100142: mantis:Group65087
+    100144: mantis:Group65088
+    100146: mantis:Group65089
+    100148: mantis:Group65090
+    100150: mantis:Group65091
+    100152: mantis:Group65092
+    100154: mantis:Group65093
+    100156: mantis:Group65094
+    100158: mantis:Group65095
+    100160: mantis:Group65096
+    100162: mantis:Group65097
+    100164: mantis:Group65098
+    100166: mantis:Group65099
+    100168: mantis:Group65100
+    100170: mantis:Group65101
+    100172: mantis:Group65102
+    100174: mantis:Group65103
+    100176: mantis:Group65104
+    100178: mantis:Group65105
+    100180: mantis:Group65106
+    100182: mantis:Group65107
+    100184: mantis:Group65108
+    100186: mantis:Group65109
+    100188: mantis:Group65110
+    100190: mantis:Group65111
+    100192: mantis:Group65112
+    100194: mantis:Group65113
+    100196: mantis:Group65114
+    100198: mantis:Group65115
+    100200: mantis:Group65116
+    100202: mantis:Group65117
+    100204: mantis:Group65118
+    100206: mantis:Group65119
+    100208: mantis:Group65120
+    100210: mantis:Group65121
+    100212: mantis:Group65122
+    100214: mantis:Group65123
+    100216: mantis:Group65124
+    100218: mantis:Group65125
+    100220: mantis:Group65126
+    100222: mantis:Group65127
+    100224: mantis:Group65128
+    100226: mantis:Group65129
+    100228: mantis:Group65130
+    100230: mantis:Group65131
+    100232: mantis:Group65132
+    100234: mantis:Group65133
+    100236: mantis:Group65134
+    100238: mantis:Group65135
+    100240: mantis:Group65136
+    100242: mantis:Group65137
+    100244: mantis:Group65138
+    100246: mantis:Group65139
+    100248: mantis:Group65140
+    100250: mantis:Group65141
+    100252: mantis:Group65142
+    100254: mantis:Group65143
+    100256: mantis:Group65144
+    100258: mantis:Group65145
+    100260: mantis:Group65146
+    100262: mantis:Group65147
+    100264: mantis:Group65148
+    100266: mantis:Group65149
+    100268: mantis:Group65150
+    100270: mantis:Group65151
+    100272: mantis:Group65152
+    100274: mantis:Group65153
+    100276: mantis:Group65154
+    100278: mantis:Group65155
+    100280: mantis:Group65156
+    100282: mantis:Group65157
+    100284: mantis:Group65158
+    100286: mantis:Group65159
+    100288: mantis:Group65160
+    100290: mantis:Group65161
+    100292: mantis:Group65162
+    100294: mantis:Group65163
+    100296: mantis:Group65164
+    100298: mantis:Group65165
+    100300: mantis:Group65166
+    100302: mantis:Group65167
+    100304: mantis:Group65168
+    100306: mantis:Group65169
+    100308: mantis:Group65170
+    100310: mantis:Group65171
+    100312: mantis:Group65172
+    100314: mantis:Group65173
+    100316: mantis:Group65174
+    100318: mantis:Group65175
+    100320: mantis:Group65176
+    100322: mantis:Group65177
+    100324: mantis:Group65178
+    100326: mantis:Group65179
+    100328: mantis:Group65180
+    100330: mantis:Group65181
+    100332: mantis:Group65182
+    100334: mantis:Group65183
+    100336: mantis:Group65184
+    100338: mantis:Group65185
+    100340: mantis:Group65186
+    100342: mantis:Group65187
+    100344: mantis:Group65188
+    100346: mantis:Group65189
+    100348: mantis:Group65190
+    100350: mantis:Group65191
+    100352: mantis:Group65192
+    100354: mantis:Group65193
+    100356: mantis:Group65194
+    100358: mantis:Group65195
+    100360: mantis:Group65196
+    100362: mantis:Group65197
+    100364: mantis:Group65198
+    100366: mantis:Group65199
+    100368: mantis:Group65200
+    100370: mantis:Group65201
+    100372: mantis:Group65202
+    100374: mantis:Group65203
+    100376: mantis:Group65204
+    100378: mantis:Group65205
+    100380: mantis:Group65206
+    100382: mantis:Group65207
+    100384: mantis:Group65208
+    100386: mantis:Group65209
+    100388: mantis:Group65210
+    100390: mantis:Group65211
+    100392: mantis:Group65212
+    100394: mantis:Group65213
+    100396: mantis:Group65214
+    100398: mantis:Group65215
+    100400: mantis:Group65216
+    100402: mantis:Group65217
+    100404: mantis:Group65218
+    100406: mantis:Group65219
+    100408: mantis:Group65220
+    100410: mantis:Group65221
+    100412: mantis:Group65222
+    100414: mantis:Group65223
+    100416: mantis:Group65224
+    100418: mantis:Group65225
+    100420: mantis:Group65226
+    100422: mantis:Group65227
+    100424: mantis:Group65228
+    100426: mantis:Group65229
+    100428: mantis:Group65230
+    100430: mantis:Group65231
+    100432: mantis:Group65232
+    100434: mantis:Group65233
+    100436: mantis:Group65234
+    100438: mantis:Group65235
+    100440: mantis:Group65236
+    100442: mantis:Group65237
+    100444: mantis:Group65238
+    100446: mantis:Group65239
+    100448: mantis:Group65240
+    100450: mantis:Group65241
+    100452: mantis:Group65242
+    100454: mantis:Group65243
+    100456: mantis:Group65244
+    100458: mantis:Group65245
+    100460: mantis:Group65246
+    100462: mantis:Group65247
+    100464: mantis:Group65248
+    100466: mantis:Group65249
+    100468: mantis:Group65250
+    100470: mantis:Group65251
+    100472: mantis:Group65252
+    100474: mantis:Group65253
+    100476: mantis:Group65254
+    100478: mantis:Group65255
+    100480: mantis:Group65256
+    100482: mantis:Group65257
+    100484: mantis:Group65258
+    100486: mantis:Group65259
+    100488: mantis:Group65260
+    100490: mantis:Group65261
+    100492: mantis:Group65262
+    100494: mantis:Group65263
+    100496: mantis:Group65264
+    100498: mantis:Group65265
+    100500: mantis:Group65266
+    100502: mantis:Group65267
+    100504: mantis:Group65268
+    100506: mantis:Group65269
+    100508: mantis:Group65270
+    100510: mantis:Group65271
+    100512: mantis:Group65272
+    100514: mantis:Group65273
+    100516: mantis:Group65274
+    100518: mantis:Group65275
+    100520: mantis:Group65276
+    100522: mantis:Group65277
+    100524: mantis:Group65278
+    100526: mantis:Group65279
+    100528: mantis:Group65280
+    100530: mantis:Group65281
+    100532: mantis:Group65282
+    100534: mantis:Group65283
+    100536: mantis:Group65284
+    100538: mantis:Group65285
+    100540: mantis:Group65286
+    100542: mantis:Group65287
+    100544: mantis:Group65288
+    100546: mantis:Group65289
+    100548: mantis:Group65290
+    100550: mantis:Group65291
+    100552: mantis:Group65292
+    100554: mantis:Group65293
+    100556: mantis:Group65294
+    100558: mantis:Group65295
+    100560: mantis:Group65296
+    100562: mantis:Group65297
+    100564: mantis:Group65298
+    100566: mantis:Group65299
+    100568: mantis:Group65300
+    100570: mantis:Group65301
+    100572: mantis:Group65302
+    100574: mantis:Group65303
+    100576: mantis:Group65304
+    100578: mantis:Group65305
+    100580: mantis:Group65306
+    100582: mantis:Group65307
+    100584: mantis:Group65308
+    100586: mantis:Group65309
+    100588: mantis:Group65310
+    100590: mantis:Group65311
+    100592: mantis:Group65312
+    100594: mantis:Group65312_MeshPart0
+    100596: mantis:Group65312_MeshPart1
+    100598: mantis:Group7408
+    100600: mantis:Group8144
+    100602: mantis:transform1
+    100604: mantis:transform10
+    100606: mantis:transform100
+    100608: mantis:transform101
+    100610: mantis:transform102
+    100612: mantis:transform103
+    100614: mantis:transform104
+    100616: mantis:transform105
+    100618: mantis:transform106
+    100620: mantis:transform107
+    100622: mantis:transform108
+    100624: mantis:transform109
+    100626: mantis:transform11
+    100628: mantis:transform110
+    100630: mantis:transform111
+    100632: mantis:transform112
+    100634: mantis:transform113
+    100636: mantis:transform114
+    100638: mantis:transform115
+    100640: mantis:transform116
+    100642: mantis:transform117
+    100644: mantis:transform118
+    100646: mantis:transform119
+    100648: mantis:transform12
+    100650: mantis:transform120
+    100652: mantis:transform121
+    100654: mantis:transform122
+    100656: mantis:transform123
+    100658: mantis:transform124
+    100660: mantis:transform125
+    100662: mantis:transform126
+    100664: mantis:transform127
+    100666: mantis:transform128
+    100668: mantis:transform129
+    100670: mantis:transform13
+    100672: mantis:transform130
+    100674: mantis:transform131
+    100676: mantis:transform132
+    100678: mantis:transform133
+    100680: mantis:transform134
+    100682: mantis:transform135
+    100684: mantis:transform136
+    100686: mantis:transform137
+    100688: mantis:transform138
+    100690: mantis:transform139
+    100692: mantis:transform14
+    100694: mantis:transform140
+    100696: mantis:transform141
+    100698: mantis:transform142
+    100700: mantis:transform143
+    100702: mantis:transform144
+    100704: mantis:transform145
+    100706: mantis:transform146
+    100708: mantis:transform147
+    100710: mantis:transform148
+    100712: mantis:transform149
+    100714: mantis:transform15
+    100716: mantis:transform150
+    100718: mantis:transform151
+    100720: mantis:transform152
+    100722: mantis:transform153
+    100724: mantis:transform154
+    100726: mantis:transform155
+    100728: mantis:transform156
+    100730: mantis:transform157
+    100732: mantis:transform158
+    100734: mantis:transform159
+    100736: mantis:transform16
+    100738: mantis:transform160
+    100740: mantis:transform161
+    100742: mantis:transform162
+    100744: mantis:transform163
+    100746: mantis:transform164
+    100748: mantis:transform165
+    100750: mantis:transform166
+    100752: mantis:transform167
+    100754: mantis:transform168
+    100756: mantis:transform169
+    100758: mantis:transform17
+    100760: mantis:transform170
+    100762: mantis:transform171
+    100764: mantis:transform172
+    100766: mantis:transform173
+    100768: mantis:transform174
+    100770: mantis:transform175
+    100772: mantis:transform176
+    100774: mantis:transform177
+    100776: mantis:transform178
+    100778: mantis:transform179
+    100780: mantis:transform18
+    100782: mantis:transform180
+    100784: mantis:transform181
+    100786: mantis:transform182
+    100788: mantis:transform183
+    100790: mantis:transform184
+    100792: mantis:transform185
+    100794: mantis:transform186
+    100796: mantis:transform187
+    100798: mantis:transform188
+    100800: mantis:transform189
+    100802: mantis:transform19
+    100804: mantis:transform190
+    100806: mantis:transform191
+    100808: mantis:transform192
+    100810: mantis:transform193
+    100812: mantis:transform194
+    100814: mantis:transform195
+    100816: mantis:transform196
+    100818: mantis:transform197
+    100820: mantis:transform198
+    100822: mantis:transform199
+    100824: mantis:transform2
+    100826: mantis:transform20
+    100828: mantis:transform200
+    100830: mantis:transform201
+    100832: mantis:transform202
+    100834: mantis:transform203
+    100836: mantis:transform204
+    100838: mantis:transform205
+    100840: mantis:transform206
+    100842: mantis:transform207
+    100844: mantis:transform208
+    100846: mantis:transform209
+    100848: mantis:transform21
+    100850: mantis:transform210
+    100852: mantis:transform211
+    100854: mantis:transform212
+    100856: mantis:transform213
+    100858: mantis:transform214
+    100860: mantis:transform215
+    100862: mantis:transform216
+    100864: mantis:transform217
+    100866: mantis:transform218
+    100868: mantis:transform219
+    100870: mantis:transform22
+    100872: mantis:transform220
+    100874: mantis:transform221
+    100876: mantis:transform222
+    100878: mantis:transform223
+    100880: mantis:transform224
+    100882: mantis:transform225
+    100884: mantis:transform226
+    100886: mantis:transform227
+    100888: mantis:transform228
+    100890: mantis:transform229
+    100892: mantis:transform23
+    100894: mantis:transform230
+    100896: mantis:transform231
+    100898: mantis:transform232
+    100900: mantis:transform233
+    100902: mantis:transform234
+    100904: mantis:transform235
+    100906: mantis:transform236
+    100908: mantis:transform237
+    100910: mantis:transform238
+    100912: mantis:transform239
+    100914: mantis:transform24
+    100916: mantis:transform240
+    100918: mantis:transform241
+    100920: mantis:transform242
+    100922: mantis:transform243
+    100924: mantis:transform244
+    100926: mantis:transform245
+    100928: mantis:transform246
+    100930: mantis:transform247
+    100932: mantis:transform248
+    100934: mantis:transform249
+    100936: mantis:transform25
+    100938: mantis:transform250
+    100940: mantis:transform251
+    100942: mantis:transform252
+    100944: mantis:transform253
+    100946: mantis:transform254
+    100948: mantis:transform255
+    100950: mantis:transform256
+    100952: mantis:transform257
+    100954: mantis:transform258
+    100956: mantis:transform259
+    100958: mantis:transform26
+    100960: mantis:transform260
+    100962: mantis:transform261
+    100964: mantis:transform262
+    100966: mantis:transform263
+    100968: mantis:transform264
+    100970: mantis:transform265
+    100972: mantis:transform266
+    100974: mantis:transform267
+    100976: mantis:transform268
+    100978: mantis:transform269
+    100980: mantis:transform27
+    100982: mantis:transform270
+    100984: mantis:transform271
+    100986: mantis:transform272
+    100988: mantis:transform273
+    100990: mantis:transform274
+    100992: mantis:transform275
+    100994: mantis:transform28
+    100996: mantis:transform29
+    100998: mantis:transform3
+    101000: mantis:transform30
+    101002: mantis:transform31
+    101004: mantis:transform32
+    101006: mantis:transform33
+    101008: mantis:transform34
+    101010: mantis:transform35
+    101012: mantis:transform36
+    101014: mantis:transform37
+    101016: mantis:transform38
+    101018: mantis:transform39
+    101020: mantis:transform4
+    101022: mantis:transform40
+    101024: mantis:transform41
+    101026: mantis:transform42
+    101028: mantis:transform43
+    101030: mantis:transform44
+    101032: mantis:transform45
+    101034: mantis:transform46
+    101036: mantis:transform47
+    101038: mantis:transform48
+    101040: mantis:transform49
+    101042: mantis:transform5
+    101044: mantis:transform50
+    101046: mantis:transform51
+    101048: mantis:transform52
+    101050: mantis:transform53
+    101052: mantis:transform54
+    101054: mantis:transform55
+    101056: mantis:transform56
+    101058: mantis:transform57
+    101060: mantis:transform58
+    101062: mantis:transform59
+    101064: mantis:transform6
+    101066: mantis:transform60
+    101068: mantis:transform61
+    101070: mantis:transform62
+    101072: mantis:transform63
+    101074: mantis:transform64
+    101076: mantis:transform65
+    101078: mantis:transform66
+    101080: mantis:transform67
+    101082: mantis:transform68
+    101084: mantis:transform69
+    101086: mantis:transform7
+    101088: mantis:transform70
+    101090: mantis:transform71
+    101092: mantis:transform72
+    101094: mantis:transform73
+    101096: mantis:transform74
+    101098: mantis:transform75
+    101100: mantis:transform76
+    101102: mantis:transform77
+    101104: mantis:transform78
+    101106: mantis:transform79
+    101108: mantis:transform8
+    101110: mantis:transform80
+    101112: mantis:transform81
+    101114: mantis:transform82
+    101116: mantis:transform83
+    101118: mantis:transform84
+    101120: mantis:transform85
+    101122: mantis:transform86
+    101124: mantis:transform87
+    101126: mantis:transform88
+    101128: mantis:transform89
+    101130: mantis:transform9
+    101132: mantis:transform90
+    101134: mantis:transform91
+    101136: mantis:transform92
+    101138: mantis:transform93
+    101140: mantis:transform94
+    101142: mantis:transform95
+    101144: mantis:transform96
+    101146: mantis:transform97
+    101148: mantis:transform98
+    101150: mantis:transform99
+    101152: neck_lower
+    101154: nurbsCircle1
+    101156: nurbsCircle2
+    101158: nurbsCircle3
+    101160: nurbsCircle4
+    101162: nurbsCircle5
+    101164: pPlane1
+    101166: rarm1
+    101168: rarm2
+    101170: rarm3
+    101172: rarm4
+    101174: rarml
+    101176: rleg1
+    101178: rleg2
+    101180: rleg3
+    101182: rleg4
+    101184: rlegl
+    101186: rmleg1
+    101188: rmleg2
+    101190: rmleg3
+    101192: rmleg4
+    101194: rmlegl
+    101196: root
+    101198: spine1
+    101200: spine2
+    101202: spine3
+    101204: spine4
+    101206: spinel
+    400000: front_root
+    400002: head
+    400004: headl
+    400006: ikHandle1
+    400008: ikHandle2
+    400010: ikHandle3
+    400012: ikHandle4
+    400014: l_arm1
+    400016: larm2
+    400018: larm3
+    400020: larm4
+    400022: larml
+    400024: lleg1
+    400026: lleg2
+    400028: lleg3
+    400030: lleg4
+    400032: llegl
+    400034: lmleg1
+    400036: lmleg2
+    400038: lmleg3
+    400040: lmleg4
+    400042: lmlegl
+    400044: //RootNode
+    400046: mantis:Group14191
+    400048: mantis:Group22333
+    400050: mantis:Group25259
+    400052: mantis:Group39851
+    400054: mantis:Group4312
+    400056: mantis:Group47267
+    400058: mantis:Group48424
+    400060: mantis:Group53802
+    400062: mantis:Group65047
+    400064: mantis:Group65048
+    400066: mantis:Group65049
+    400068: mantis:Group65050
+    400070: mantis:Group65051
+    400072: mantis:Group65052
+    400074: mantis:Group65053
+    400076: mantis:Group65054
+    400078: mantis:Group65055
+    400080: mantis:Group65056
+    400082: mantis:Group65057
+    400084: mantis:Group65058
+    400086: mantis:Group65059
+    400088: mantis:Group65060
+    400090: mantis:Group65061
+    400092: mantis:Group65062
+    400094: mantis:Group65063
+    400096: mantis:Group65064
+    400098: mantis:Group65065
+    400100: mantis:Group65066
+    400102: mantis:Group65067
+    400104: mantis:Group65068
+    400106: mantis:Group65069
+    400108: mantis:Group65070
+    400110: mantis:Group65071
+    400112: mantis:Group65072
+    400114: mantis:Group65073
+    400116: mantis:Group65074
+    400118: mantis:Group65075
+    400120: mantis:Group65076
+    400122: mantis:Group65077
+    400124: mantis:Group65078
+    400126: mantis:Group65079
+    400128: mantis:Group65080
+    400130: mantis:Group65081
+    400132: mantis:Group65082
+    400134: mantis:Group65083
+    400136: mantis:Group65084
+    400138: mantis:Group65085
+    400140: mantis:Group65086
+    400142: mantis:Group65087
+    400144: mantis:Group65088
+    400146: mantis:Group65089
+    400148: mantis:Group65090
+    400150: mantis:Group65091
+    400152: mantis:Group65092
+    400154: mantis:Group65093
+    400156: mantis:Group65094
+    400158: mantis:Group65095
+    400160: mantis:Group65096
+    400162: mantis:Group65097
+    400164: mantis:Group65098
+    400166: mantis:Group65099
+    400168: mantis:Group65100
+    400170: mantis:Group65101
+    400172: mantis:Group65102
+    400174: mantis:Group65103
+    400176: mantis:Group65104
+    400178: mantis:Group65105
+    400180: mantis:Group65106
+    400182: mantis:Group65107
+    400184: mantis:Group65108
+    400186: mantis:Group65109
+    400188: mantis:Group65110
+    400190: mantis:Group65111
+    400192: mantis:Group65112
+    400194: mantis:Group65113
+    400196: mantis:Group65114
+    400198: mantis:Group65115
+    400200: mantis:Group65116
+    400202: mantis:Group65117
+    400204: mantis:Group65118
+    400206: mantis:Group65119
+    400208: mantis:Group65120
+    400210: mantis:Group65121
+    400212: mantis:Group65122
+    400214: mantis:Group65123
+    400216: mantis:Group65124
+    400218: mantis:Group65125
+    400220: mantis:Group65126
+    400222: mantis:Group65127
+    400224: mantis:Group65128
+    400226: mantis:Group65129
+    400228: mantis:Group65130
+    400230: mantis:Group65131
+    400232: mantis:Group65132
+    400234: mantis:Group65133
+    400236: mantis:Group65134
+    400238: mantis:Group65135
+    400240: mantis:Group65136
+    400242: mantis:Group65137
+    400244: mantis:Group65138
+    400246: mantis:Group65139
+    400248: mantis:Group65140
+    400250: mantis:Group65141
+    400252: mantis:Group65142
+    400254: mantis:Group65143
+    400256: mantis:Group65144
+    400258: mantis:Group65145
+    400260: mantis:Group65146
+    400262: mantis:Group65147
+    400264: mantis:Group65148
+    400266: mantis:Group65149
+    400268: mantis:Group65150
+    400270: mantis:Group65151
+    400272: mantis:Group65152
+    400274: mantis:Group65153
+    400276: mantis:Group65154
+    400278: mantis:Group65155
+    400280: mantis:Group65156
+    400282: mantis:Group65157
+    400284: mantis:Group65158
+    400286: mantis:Group65159
+    400288: mantis:Group65160
+    400290: mantis:Group65161
+    400292: mantis:Group65162
+    400294: mantis:Group65163
+    400296: mantis:Group65164
+    400298: mantis:Group65165
+    400300: mantis:Group65166
+    400302: mantis:Group65167
+    400304: mantis:Group65168
+    400306: mantis:Group65169
+    400308: mantis:Group65170
+    400310: mantis:Group65171
+    400312: mantis:Group65172
+    400314: mantis:Group65173
+    400316: mantis:Group65174
+    400318: mantis:Group65175
+    400320: mantis:Group65176
+    400322: mantis:Group65177
+    400324: mantis:Group65178
+    400326: mantis:Group65179
+    400328: mantis:Group65180
+    400330: mantis:Group65181
+    400332: mantis:Group65182
+    400334: mantis:Group65183
+    400336: mantis:Group65184
+    400338: mantis:Group65185
+    400340: mantis:Group65186
+    400342: mantis:Group65187
+    400344: mantis:Group65188
+    400346: mantis:Group65189
+    400348: mantis:Group65190
+    400350: mantis:Group65191
+    400352: mantis:Group65192
+    400354: mantis:Group65193
+    400356: mantis:Group65194
+    400358: mantis:Group65195
+    400360: mantis:Group65196
+    400362: mantis:Group65197
+    400364: mantis:Group65198
+    400366: mantis:Group65199
+    400368: mantis:Group65200
+    400370: mantis:Group65201
+    400372: mantis:Group65202
+    400374: mantis:Group65203
+    400376: mantis:Group65204
+    400378: mantis:Group65205
+    400380: mantis:Group65206
+    400382: mantis:Group65207
+    400384: mantis:Group65208
+    400386: mantis:Group65209
+    400388: mantis:Group65210
+    400390: mantis:Group65211
+    400392: mantis:Group65212
+    400394: mantis:Group65213
+    400396: mantis:Group65214
+    400398: mantis:Group65215
+    400400: mantis:Group65216
+    400402: mantis:Group65217
+    400404: mantis:Group65218
+    400406: mantis:Group65219
+    400408: mantis:Group65220
+    400410: mantis:Group65221
+    400412: mantis:Group65222
+    400414: mantis:Group65223
+    400416: mantis:Group65224
+    400418: mantis:Group65225
+    400420: mantis:Group65226
+    400422: mantis:Group65227
+    400424: mantis:Group65228
+    400426: mantis:Group65229
+    400428: mantis:Group65230
+    400430: mantis:Group65231
+    400432: mantis:Group65232
+    400434: mantis:Group65233
+    400436: mantis:Group65234
+    400438: mantis:Group65235
+    400440: mantis:Group65236
+    400442: mantis:Group65237
+    400444: mantis:Group65238
+    400446: mantis:Group65239
+    400448: mantis:Group65240
+    400450: mantis:Group65241
+    400452: mantis:Group65242
+    400454: mantis:Group65243
+    400456: mantis:Group65244
+    400458: mantis:Group65245
+    400460: mantis:Group65246
+    400462: mantis:Group65247
+    400464: mantis:Group65248
+    400466: mantis:Group65249
+    400468: mantis:Group65250
+    400470: mantis:Group65251
+    400472: mantis:Group65252
+    400474: mantis:Group65253
+    400476: mantis:Group65254
+    400478: mantis:Group65255
+    400480: mantis:Group65256
+    400482: mantis:Group65257
+    400484: mantis:Group65258
+    400486: mantis:Group65259
+    400488: mantis:Group65260
+    400490: mantis:Group65261
+    400492: mantis:Group65262
+    400494: mantis:Group65263
+    400496: mantis:Group65264
+    400498: mantis:Group65265
+    400500: mantis:Group65266
+    400502: mantis:Group65267
+    400504: mantis:Group65268
+    400506: mantis:Group65269
+    400508: mantis:Group65270
+    400510: mantis:Group65271
+    400512: mantis:Group65272
+    400514: mantis:Group65273
+    400516: mantis:Group65274
+    400518: mantis:Group65275
+    400520: mantis:Group65276
+    400522: mantis:Group65277
+    400524: mantis:Group65278
+    400526: mantis:Group65279
+    400528: mantis:Group65280
+    400530: mantis:Group65281
+    400532: mantis:Group65282
+    400534: mantis:Group65283
+    400536: mantis:Group65284
+    400538: mantis:Group65285
+    400540: mantis:Group65286
+    400542: mantis:Group65287
+    400544: mantis:Group65288
+    400546: mantis:Group65289
+    400548: mantis:Group65290
+    400550: mantis:Group65291
+    400552: mantis:Group65292
+    400554: mantis:Group65293
+    400556: mantis:Group65294
+    400558: mantis:Group65295
+    400560: mantis:Group65296
+    400562: mantis:Group65297
+    400564: mantis:Group65298
+    400566: mantis:Group65299
+    400568: mantis:Group65300
+    400570: mantis:Group65301
+    400572: mantis:Group65302
+    400574: mantis:Group65303
+    400576: mantis:Group65304
+    400578: mantis:Group65305
+    400580: mantis:Group65306
+    400582: mantis:Group65307
+    400584: mantis:Group65308
+    400586: mantis:Group65309
+    400588: mantis:Group65310
+    400590: mantis:Group65311
+    400592: mantis:Group65312
+    400594: mantis:Group65312_MeshPart0
+    400596: mantis:Group65312_MeshPart1
+    400598: mantis:Group7408
+    400600: mantis:Group8144
+    400602: mantis:transform1
+    400604: mantis:transform10
+    400606: mantis:transform100
+    400608: mantis:transform101
+    400610: mantis:transform102
+    400612: mantis:transform103
+    400614: mantis:transform104
+    400616: mantis:transform105
+    400618: mantis:transform106
+    400620: mantis:transform107
+    400622: mantis:transform108
+    400624: mantis:transform109
+    400626: mantis:transform11
+    400628: mantis:transform110
+    400630: mantis:transform111
+    400632: mantis:transform112
+    400634: mantis:transform113
+    400636: mantis:transform114
+    400638: mantis:transform115
+    400640: mantis:transform116
+    400642: mantis:transform117
+    400644: mantis:transform118
+    400646: mantis:transform119
+    400648: mantis:transform12
+    400650: mantis:transform120
+    400652: mantis:transform121
+    400654: mantis:transform122
+    400656: mantis:transform123
+    400658: mantis:transform124
+    400660: mantis:transform125
+    400662: mantis:transform126
+    400664: mantis:transform127
+    400666: mantis:transform128
+    400668: mantis:transform129
+    400670: mantis:transform13
+    400672: mantis:transform130
+    400674: mantis:transform131
+    400676: mantis:transform132
+    400678: mantis:transform133
+    400680: mantis:transform134
+    400682: mantis:transform135
+    400684: mantis:transform136
+    400686: mantis:transform137
+    400688: mantis:transform138
+    400690: mantis:transform139
+    400692: mantis:transform14
+    400694: mantis:transform140
+    400696: mantis:transform141
+    400698: mantis:transform142
+    400700: mantis:transform143
+    400702: mantis:transform144
+    400704: mantis:transform145
+    400706: mantis:transform146
+    400708: mantis:transform147
+    400710: mantis:transform148
+    400712: mantis:transform149
+    400714: mantis:transform15
+    400716: mantis:transform150
+    400718: mantis:transform151
+    400720: mantis:transform152
+    400722: mantis:transform153
+    400724: mantis:transform154
+    400726: mantis:transform155
+    400728: mantis:transform156
+    400730: mantis:transform157
+    400732: mantis:transform158
+    400734: mantis:transform159
+    400736: mantis:transform16
+    400738: mantis:transform160
+    400740: mantis:transform161
+    400742: mantis:transform162
+    400744: mantis:transform163
+    400746: mantis:transform164
+    400748: mantis:transform165
+    400750: mantis:transform166
+    400752: mantis:transform167
+    400754: mantis:transform168
+    400756: mantis:transform169
+    400758: mantis:transform17
+    400760: mantis:transform170
+    400762: mantis:transform171
+    400764: mantis:transform172
+    400766: mantis:transform173
+    400768: mantis:transform174
+    400770: mantis:transform175
+    400772: mantis:transform176
+    400774: mantis:transform177
+    400776: mantis:transform178
+    400778: mantis:transform179
+    400780: mantis:transform18
+    400782: mantis:transform180
+    400784: mantis:transform181
+    400786: mantis:transform182
+    400788: mantis:transform183
+    400790: mantis:transform184
+    400792: mantis:transform185
+    400794: mantis:transform186
+    400796: mantis:transform187
+    400798: mantis:transform188
+    400800: mantis:transform189
+    400802: mantis:transform19
+    400804: mantis:transform190
+    400806: mantis:transform191
+    400808: mantis:transform192
+    400810: mantis:transform193
+    400812: mantis:transform194
+    400814: mantis:transform195
+    400816: mantis:transform196
+    400818: mantis:transform197
+    400820: mantis:transform198
+    400822: mantis:transform199
+    400824: mantis:transform2
+    400826: mantis:transform20
+    400828: mantis:transform200
+    400830: mantis:transform201
+    400832: mantis:transform202
+    400834: mantis:transform203
+    400836: mantis:transform204
+    400838: mantis:transform205
+    400840: mantis:transform206
+    400842: mantis:transform207
+    400844: mantis:transform208
+    400846: mantis:transform209
+    400848: mantis:transform21
+    400850: mantis:transform210
+    400852: mantis:transform211
+    400854: mantis:transform212
+    400856: mantis:transform213
+    400858: mantis:transform214
+    400860: mantis:transform215
+    400862: mantis:transform216
+    400864: mantis:transform217
+    400866: mantis:transform218
+    400868: mantis:transform219
+    400870: mantis:transform22
+    400872: mantis:transform220
+    400874: mantis:transform221
+    400876: mantis:transform222
+    400878: mantis:transform223
+    400880: mantis:transform224
+    400882: mantis:transform225
+    400884: mantis:transform226
+    400886: mantis:transform227
+    400888: mantis:transform228
+    400890: mantis:transform229
+    400892: mantis:transform23
+    400894: mantis:transform230
+    400896: mantis:transform231
+    400898: mantis:transform232
+    400900: mantis:transform233
+    400902: mantis:transform234
+    400904: mantis:transform235
+    400906: mantis:transform236
+    400908: mantis:transform237
+    400910: mantis:transform238
+    400912: mantis:transform239
+    400914: mantis:transform24
+    400916: mantis:transform240
+    400918: mantis:transform241
+    400920: mantis:transform242
+    400922: mantis:transform243
+    400924: mantis:transform244
+    400926: mantis:transform245
+    400928: mantis:transform246
+    400930: mantis:transform247
+    400932: mantis:transform248
+    400934: mantis:transform249
+    400936: mantis:transform25
+    400938: mantis:transform250
+    400940: mantis:transform251
+    400942: mantis:transform252
+    400944: mantis:transform253
+    400946: mantis:transform254
+    400948: mantis:transform255
+    400950: mantis:transform256
+    400952: mantis:transform257
+    400954: mantis:transform258
+    400956: mantis:transform259
+    400958: mantis:transform26
+    400960: mantis:transform260
+    400962: mantis:transform261
+    400964: mantis:transform262
+    400966: mantis:transform263
+    400968: mantis:transform264
+    400970: mantis:transform265
+    400972: mantis:transform266
+    400974: mantis:transform267
+    400976: mantis:transform268
+    400978: mantis:transform269
+    400980: mantis:transform27
+    400982: mantis:transform270
+    400984: mantis:transform271
+    400986: mantis:transform272
+    400988: mantis:transform273
+    400990: mantis:transform274
+    400992: mantis:transform275
+    400994: mantis:transform28
+    400996: mantis:transform29
+    400998: mantis:transform3
+    401000: mantis:transform30
+    401002: mantis:transform31
+    401004: mantis:transform32
+    401006: mantis:transform33
+    401008: mantis:transform34
+    401010: mantis:transform35
+    401012: mantis:transform36
+    401014: mantis:transform37
+    401016: mantis:transform38
+    401018: mantis:transform39
+    401020: mantis:transform4
+    401022: mantis:transform40
+    401024: mantis:transform41
+    401026: mantis:transform42
+    401028: mantis:transform43
+    401030: mantis:transform44
+    401032: mantis:transform45
+    401034: mantis:transform46
+    401036: mantis:transform47
+    401038: mantis:transform48
+    401040: mantis:transform49
+    401042: mantis:transform5
+    401044: mantis:transform50
+    401046: mantis:transform51
+    401048: mantis:transform52
+    401050: mantis:transform53
+    401052: mantis:transform54
+    401054: mantis:transform55
+    401056: mantis:transform56
+    401058: mantis:transform57
+    401060: mantis:transform58
+    401062: mantis:transform59
+    401064: mantis:transform6
+    401066: mantis:transform60
+    401068: mantis:transform61
+    401070: mantis:transform62
+    401072: mantis:transform63
+    401074: mantis:transform64
+    401076: mantis:transform65
+    401078: mantis:transform66
+    401080: mantis:transform67
+    401082: mantis:transform68
+    401084: mantis:transform69
+    401086: mantis:transform7
+    401088: mantis:transform70
+    401090: mantis:transform71
+    401092: mantis:transform72
+    401094: mantis:transform73
+    401096: mantis:transform74
+    401098: mantis:transform75
+    401100: mantis:transform76
+    401102: mantis:transform77
+    401104: mantis:transform78
+    401106: mantis:transform79
+    401108: mantis:transform8
+    401110: mantis:transform80
+    401112: mantis:transform81
+    401114: mantis:transform82
+    401116: mantis:transform83
+    401118: mantis:transform84
+    401120: mantis:transform85
+    401122: mantis:transform86
+    401124: mantis:transform87
+    401126: mantis:transform88
+    401128: mantis:transform89
+    401130: mantis:transform9
+    401132: mantis:transform90
+    401134: mantis:transform91
+    401136: mantis:transform92
+    401138: mantis:transform93
+    401140: mantis:transform94
+    401142: mantis:transform95
+    401144: mantis:transform96
+    401146: mantis:transform97
+    401148: mantis:transform98
+    401150: mantis:transform99
+    401152: neck_lower
+    401154: nurbsCircle1
+    401156: nurbsCircle2
+    401158: nurbsCircle3
+    401160: nurbsCircle4
+    401162: nurbsCircle5
+    401164: pPlane1
+    401166: rarm1
+    401168: rarm2
+    401170: rarm3
+    401172: rarm4
+    401174: rarml
+    401176: rleg1
+    401178: rleg2
+    401180: rleg3
+    401182: rleg4
+    401184: rlegl
+    401186: rmleg1
+    401188: rmleg2
+    401190: rmleg3
+    401192: rmleg4
+    401194: rmlegl
+    401196: root
+    401198: spine1
+    401200: spine2
+    401202: spine3
+    401204: spine4
+    401206: spinel
+    2300000: pPlane1
+    3300000: pPlane1
+    4300000: mantis:Group65312_MeshPart0
+    4300002: mantis:Group65312_MeshPart1
+    4300004: pPlane1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mantis:Group65312_MeshPart0
+    13700002: mantis:Group65312_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mantis:Group4312
+        weight: 1
+      - path: mantis:Group4312/mantis:transform232
+        weight: 1
+      - path: mantis:Group7408
+        weight: 1
+      - path: mantis:Group7408/mantis:transform207
+        weight: 1
+      - path: mantis:Group8144
+        weight: 1
+      - path: mantis:Group8144/mantis:transform264
+        weight: 1
+      - path: mantis:Group14191
+        weight: 1
+      - path: mantis:Group14191/mantis:transform254
+        weight: 1
+      - path: mantis:Group22333
+        weight: 1
+      - path: mantis:Group22333/mantis:transform266
+        weight: 1
+      - path: mantis:Group25259
+        weight: 1
+      - path: mantis:Group25259/mantis:transform267
+        weight: 1
+      - path: mantis:Group39851
+        weight: 1
+      - path: mantis:Group39851/mantis:transform275
+        weight: 1
+      - path: mantis:Group47267
+        weight: 1
+      - path: mantis:Group47267/mantis:transform273
+        weight: 1
+      - path: mantis:Group48424
+        weight: 1
+      - path: mantis:Group48424/mantis:transform268
+        weight: 1
+      - path: mantis:Group53802
+        weight: 1
+      - path: mantis:Group53802/mantis:transform274
+        weight: 1
+      - path: mantis:Group65047
+        weight: 1
+      - path: mantis:Group65047/mantis:transform272
+        weight: 1
+      - path: mantis:Group65048
+        weight: 1
+      - path: mantis:Group65048/mantis:transform271
+        weight: 1
+      - path: mantis:Group65049
+        weight: 1
+      - path: mantis:Group65049/mantis:transform270
+        weight: 1
+      - path: mantis:Group65050
+        weight: 1
+      - path: mantis:Group65050/mantis:transform269
+        weight: 1
+      - path: mantis:Group65051
+        weight: 1
+      - path: mantis:Group65051/mantis:transform265
+        weight: 1
+      - path: mantis:Group65052
+        weight: 1
+      - path: mantis:Group65052/mantis:transform263
+        weight: 1
+      - path: mantis:Group65053
+        weight: 1
+      - path: mantis:Group65053/mantis:transform262
+        weight: 1
+      - path: mantis:Group65054
+        weight: 1
+      - path: mantis:Group65054/mantis:transform261
+        weight: 1
+      - path: mantis:Group65055
+        weight: 1
+      - path: mantis:Group65055/mantis:transform260
+        weight: 1
+      - path: mantis:Group65056
+        weight: 1
+      - path: mantis:Group65056/mantis:transform259
+        weight: 1
+      - path: mantis:Group65057
+        weight: 1
+      - path: mantis:Group65057/mantis:transform258
+        weight: 1
+      - path: mantis:Group65058
+        weight: 1
+      - path: mantis:Group65058/mantis:transform257
+        weight: 1
+      - path: mantis:Group65059
+        weight: 1
+      - path: mantis:Group65059/mantis:transform256
+        weight: 1
+      - path: mantis:Group65060
+        weight: 1
+      - path: mantis:Group65060/mantis:transform255
+        weight: 1
+      - path: mantis:Group65061
+        weight: 1
+      - path: mantis:Group65061/mantis:transform253
+        weight: 1
+      - path: mantis:Group65062
+        weight: 1
+      - path: mantis:Group65062/mantis:transform252
+        weight: 1
+      - path: mantis:Group65063
+        weight: 1
+      - path: mantis:Group65063/mantis:transform251
+        weight: 1
+      - path: mantis:Group65064
+        weight: 1
+      - path: mantis:Group65064/mantis:transform250
+        weight: 1
+      - path: mantis:Group65065
+        weight: 1
+      - path: mantis:Group65065/mantis:transform249
+        weight: 1
+      - path: mantis:Group65066
+        weight: 1
+      - path: mantis:Group65066/mantis:transform248
+        weight: 1
+      - path: mantis:Group65067
+        weight: 1
+      - path: mantis:Group65067/mantis:transform247
+        weight: 1
+      - path: mantis:Group65068
+        weight: 1
+      - path: mantis:Group65068/mantis:transform246
+        weight: 1
+      - path: mantis:Group65069
+        weight: 1
+      - path: mantis:Group65069/mantis:transform245
+        weight: 1
+      - path: mantis:Group65070
+        weight: 1
+      - path: mantis:Group65070/mantis:transform244
+        weight: 1
+      - path: mantis:Group65071
+        weight: 1
+      - path: mantis:Group65071/mantis:transform243
+        weight: 1
+      - path: mantis:Group65072
+        weight: 1
+      - path: mantis:Group65072/mantis:transform242
+        weight: 1
+      - path: mantis:Group65073
+        weight: 1
+      - path: mantis:Group65073/mantis:transform241
+        weight: 1
+      - path: mantis:Group65074
+        weight: 1
+      - path: mantis:Group65074/mantis:transform240
+        weight: 1
+      - path: mantis:Group65075
+        weight: 1
+      - path: mantis:Group65075/mantis:transform239
+        weight: 1
+      - path: mantis:Group65076
+        weight: 1
+      - path: mantis:Group65076/mantis:transform238
+        weight: 1
+      - path: mantis:Group65077
+        weight: 1
+      - path: mantis:Group65077/mantis:transform237
+        weight: 1
+      - path: mantis:Group65078
+        weight: 1
+      - path: mantis:Group65078/mantis:transform236
+        weight: 1
+      - path: mantis:Group65079
+        weight: 1
+      - path: mantis:Group65079/mantis:transform235
+        weight: 1
+      - path: mantis:Group65080
+        weight: 1
+      - path: mantis:Group65080/mantis:transform234
+        weight: 1
+      - path: mantis:Group65081
+        weight: 1
+      - path: mantis:Group65081/mantis:transform233
+        weight: 1
+      - path: mantis:Group65082
+        weight: 1
+      - path: mantis:Group65082/mantis:transform231
+        weight: 1
+      - path: mantis:Group65083
+        weight: 1
+      - path: mantis:Group65083/mantis:transform230
+        weight: 1
+      - path: mantis:Group65084
+        weight: 1
+      - path: mantis:Group65084/mantis:transform229
+        weight: 1
+      - path: mantis:Group65085
+        weight: 1
+      - path: mantis:Group65085/mantis:transform228
+        weight: 1
+      - path: mantis:Group65086
+        weight: 1
+      - path: mantis:Group65086/mantis:transform227
+        weight: 1
+      - path: mantis:Group65087
+        weight: 1
+      - path: mantis:Group65087/mantis:transform226
+        weight: 1
+      - path: mantis:Group65088
+        weight: 1
+      - path: mantis:Group65088/mantis:transform225
+        weight: 1
+      - path: mantis:Group65089
+        weight: 1
+      - path: mantis:Group65089/mantis:transform224
+        weight: 1
+      - path: mantis:Group65090
+        weight: 1
+      - path: mantis:Group65090/mantis:transform223
+        weight: 1
+      - path: mantis:Group65091
+        weight: 1
+      - path: mantis:Group65091/mantis:transform222
+        weight: 1
+      - path: mantis:Group65092
+        weight: 1
+      - path: mantis:Group65092/mantis:transform221
+        weight: 1
+      - path: mantis:Group65093
+        weight: 1
+      - path: mantis:Group65093/mantis:transform220
+        weight: 1
+      - path: mantis:Group65094
+        weight: 1
+      - path: mantis:Group65094/mantis:transform219
+        weight: 1
+      - path: mantis:Group65095
+        weight: 1
+      - path: mantis:Group65095/mantis:transform218
+        weight: 1
+      - path: mantis:Group65096
+        weight: 1
+      - path: mantis:Group65096/mantis:transform217
+        weight: 1
+      - path: mantis:Group65097
+        weight: 1
+      - path: mantis:Group65097/mantis:transform216
+        weight: 1
+      - path: mantis:Group65098
+        weight: 1
+      - path: mantis:Group65098/mantis:transform215
+        weight: 1
+      - path: mantis:Group65099
+        weight: 1
+      - path: mantis:Group65099/mantis:transform214
+        weight: 1
+      - path: mantis:Group65100
+        weight: 1
+      - path: mantis:Group65100/mantis:transform213
+        weight: 1
+      - path: mantis:Group65101
+        weight: 1
+      - path: mantis:Group65101/mantis:transform212
+        weight: 1
+      - path: mantis:Group65102
+        weight: 1
+      - path: mantis:Group65102/mantis:transform211
+        weight: 1
+      - path: mantis:Group65103
+        weight: 1
+      - path: mantis:Group65103/mantis:transform210
+        weight: 1
+      - path: mantis:Group65104
+        weight: 1
+      - path: mantis:Group65104/mantis:transform209
+        weight: 1
+      - path: mantis:Group65105
+        weight: 1
+      - path: mantis:Group65105/mantis:transform208
+        weight: 1
+      - path: mantis:Group65106
+        weight: 1
+      - path: mantis:Group65106/mantis:transform206
+        weight: 1
+      - path: mantis:Group65107
+        weight: 1
+      - path: mantis:Group65107/mantis:transform205
+        weight: 1
+      - path: mantis:Group65108
+        weight: 1
+      - path: mantis:Group65108/mantis:transform204
+        weight: 1
+      - path: mantis:Group65109
+        weight: 1
+      - path: mantis:Group65109/mantis:transform203
+        weight: 1
+      - path: mantis:Group65110
+        weight: 1
+      - path: mantis:Group65110/mantis:transform202
+        weight: 1
+      - path: mantis:Group65111
+        weight: 1
+      - path: mantis:Group65111/mantis:transform201
+        weight: 1
+      - path: mantis:Group65112
+        weight: 1
+      - path: mantis:Group65112/mantis:transform200
+        weight: 1
+      - path: mantis:Group65113
+        weight: 1
+      - path: mantis:Group65113/mantis:transform199
+        weight: 1
+      - path: mantis:Group65114
+        weight: 1
+      - path: mantis:Group65114/mantis:transform198
+        weight: 1
+      - path: mantis:Group65115
+        weight: 1
+      - path: mantis:Group65115/mantis:transform197
+        weight: 1
+      - path: mantis:Group65116
+        weight: 1
+      - path: mantis:Group65116/mantis:transform196
+        weight: 1
+      - path: mantis:Group65117
+        weight: 1
+      - path: mantis:Group65117/mantis:transform195
+        weight: 1
+      - path: mantis:Group65118
+        weight: 1
+      - path: mantis:Group65118/mantis:transform194
+        weight: 1
+      - path: mantis:Group65119
+        weight: 1
+      - path: mantis:Group65119/mantis:transform193
+        weight: 1
+      - path: mantis:Group65120
+        weight: 1
+      - path: mantis:Group65120/mantis:transform192
+        weight: 1
+      - path: mantis:Group65121
+        weight: 1
+      - path: mantis:Group65121/mantis:transform191
+        weight: 1
+      - path: mantis:Group65122
+        weight: 1
+      - path: mantis:Group65122/mantis:transform190
+        weight: 1
+      - path: mantis:Group65123
+        weight: 1
+      - path: mantis:Group65123/mantis:transform189
+        weight: 1
+      - path: mantis:Group65124
+        weight: 1
+      - path: mantis:Group65124/mantis:transform188
+        weight: 1
+      - path: mantis:Group65125
+        weight: 1
+      - path: mantis:Group65125/mantis:transform187
+        weight: 1
+      - path: mantis:Group65126
+        weight: 1
+      - path: mantis:Group65126/mantis:transform186
+        weight: 1
+      - path: mantis:Group65127
+        weight: 1
+      - path: mantis:Group65127/mantis:transform185
+        weight: 1
+      - path: mantis:Group65128
+        weight: 1
+      - path: mantis:Group65128/mantis:transform184
+        weight: 1
+      - path: mantis:Group65129
+        weight: 1
+      - path: mantis:Group65129/mantis:transform183
+        weight: 1
+      - path: mantis:Group65130
+        weight: 1
+      - path: mantis:Group65130/mantis:transform182
+        weight: 1
+      - path: mantis:Group65131
+        weight: 1
+      - path: mantis:Group65131/mantis:transform181
+        weight: 1
+      - path: mantis:Group65132
+        weight: 1
+      - path: mantis:Group65132/mantis:transform180
+        weight: 1
+      - path: mantis:Group65133
+        weight: 1
+      - path: mantis:Group65133/mantis:transform179
+        weight: 1
+      - path: mantis:Group65134
+        weight: 1
+      - path: mantis:Group65134/mantis:transform178
+        weight: 1
+      - path: mantis:Group65135
+        weight: 1
+      - path: mantis:Group65135/mantis:transform177
+        weight: 1
+      - path: mantis:Group65136
+        weight: 1
+      - path: mantis:Group65136/mantis:transform176
+        weight: 1
+      - path: mantis:Group65137
+        weight: 1
+      - path: mantis:Group65137/mantis:transform175
+        weight: 1
+      - path: mantis:Group65138
+        weight: 1
+      - path: mantis:Group65138/mantis:transform174
+        weight: 1
+      - path: mantis:Group65139
+        weight: 1
+      - path: mantis:Group65139/mantis:transform173
+        weight: 1
+      - path: mantis:Group65140
+        weight: 1
+      - path: mantis:Group65140/mantis:transform172
+        weight: 1
+      - path: mantis:Group65141
+        weight: 1
+      - path: mantis:Group65141/mantis:transform171
+        weight: 1
+      - path: mantis:Group65142
+        weight: 1
+      - path: mantis:Group65142/mantis:transform170
+        weight: 1
+      - path: mantis:Group65143
+        weight: 1
+      - path: mantis:Group65143/mantis:transform169
+        weight: 1
+      - path: mantis:Group65144
+        weight: 1
+      - path: mantis:Group65144/mantis:transform168
+        weight: 1
+      - path: mantis:Group65145
+        weight: 1
+      - path: mantis:Group65145/mantis:transform167
+        weight: 1
+      - path: mantis:Group65146
+        weight: 1
+      - path: mantis:Group65146/mantis:transform166
+        weight: 1
+      - path: mantis:Group65147
+        weight: 1
+      - path: mantis:Group65147/mantis:transform165
+        weight: 1
+      - path: mantis:Group65148
+        weight: 1
+      - path: mantis:Group65148/mantis:transform164
+        weight: 1
+      - path: mantis:Group65149
+        weight: 1
+      - path: mantis:Group65149/mantis:transform163
+        weight: 1
+      - path: mantis:Group65150
+        weight: 1
+      - path: mantis:Group65150/mantis:transform162
+        weight: 1
+      - path: mantis:Group65151
+        weight: 1
+      - path: mantis:Group65151/mantis:transform161
+        weight: 1
+      - path: mantis:Group65152
+        weight: 1
+      - path: mantis:Group65152/mantis:transform160
+        weight: 1
+      - path: mantis:Group65153
+        weight: 1
+      - path: mantis:Group65153/mantis:transform159
+        weight: 1
+      - path: mantis:Group65154
+        weight: 1
+      - path: mantis:Group65154/mantis:transform158
+        weight: 1
+      - path: mantis:Group65155
+        weight: 1
+      - path: mantis:Group65155/mantis:transform157
+        weight: 1
+      - path: mantis:Group65156
+        weight: 1
+      - path: mantis:Group65156/mantis:transform156
+        weight: 1
+      - path: mantis:Group65157
+        weight: 1
+      - path: mantis:Group65157/mantis:transform155
+        weight: 1
+      - path: mantis:Group65158
+        weight: 1
+      - path: mantis:Group65158/mantis:transform154
+        weight: 1
+      - path: mantis:Group65159
+        weight: 1
+      - path: mantis:Group65159/mantis:transform153
+        weight: 1
+      - path: mantis:Group65160
+        weight: 1
+      - path: mantis:Group65160/mantis:transform152
+        weight: 1
+      - path: mantis:Group65161
+        weight: 1
+      - path: mantis:Group65161/mantis:transform151
+        weight: 1
+      - path: mantis:Group65162
+        weight: 1
+      - path: mantis:Group65162/mantis:transform150
+        weight: 1
+      - path: mantis:Group65163
+        weight: 1
+      - path: mantis:Group65163/mantis:transform149
+        weight: 1
+      - path: mantis:Group65164
+        weight: 1
+      - path: mantis:Group65164/mantis:transform148
+        weight: 1
+      - path: mantis:Group65165
+        weight: 1
+      - path: mantis:Group65165/mantis:transform147
+        weight: 1
+      - path: mantis:Group65166
+        weight: 1
+      - path: mantis:Group65166/mantis:transform146
+        weight: 1
+      - path: mantis:Group65167
+        weight: 1
+      - path: mantis:Group65167/mantis:transform145
+        weight: 1
+      - path: mantis:Group65168
+        weight: 1
+      - path: mantis:Group65168/mantis:transform144
+        weight: 1
+      - path: mantis:Group65169
+        weight: 1
+      - path: mantis:Group65169/mantis:transform143
+        weight: 1
+      - path: mantis:Group65170
+        weight: 1
+      - path: mantis:Group65170/mantis:transform142
+        weight: 1
+      - path: mantis:Group65171
+        weight: 1
+      - path: mantis:Group65171/mantis:transform141
+        weight: 1
+      - path: mantis:Group65172
+        weight: 1
+      - path: mantis:Group65172/mantis:transform140
+        weight: 1
+      - path: mantis:Group65173
+        weight: 1
+      - path: mantis:Group65173/mantis:transform139
+        weight: 1
+      - path: mantis:Group65174
+        weight: 1
+      - path: mantis:Group65174/mantis:transform138
+        weight: 1
+      - path: mantis:Group65175
+        weight: 1
+      - path: mantis:Group65175/mantis:transform137
+        weight: 1
+      - path: mantis:Group65176
+        weight: 1
+      - path: mantis:Group65176/mantis:transform136
+        weight: 1
+      - path: mantis:Group65177
+        weight: 1
+      - path: mantis:Group65177/mantis:transform135
+        weight: 1
+      - path: mantis:Group65178
+        weight: 1
+      - path: mantis:Group65178/mantis:transform134
+        weight: 1
+      - path: mantis:Group65179
+        weight: 1
+      - path: mantis:Group65179/mantis:transform133
+        weight: 1
+      - path: mantis:Group65180
+        weight: 1
+      - path: mantis:Group65180/mantis:transform132
+        weight: 1
+      - path: mantis:Group65181
+        weight: 1
+      - path: mantis:Group65181/mantis:transform131
+        weight: 1
+      - path: mantis:Group65182
+        weight: 1
+      - path: mantis:Group65182/mantis:transform130
+        weight: 1
+      - path: mantis:Group65183
+        weight: 1
+      - path: mantis:Group65183/mantis:transform129
+        weight: 1
+      - path: mantis:Group65184
+        weight: 1
+      - path: mantis:Group65184/mantis:transform128
+        weight: 1
+      - path: mantis:Group65185
+        weight: 1
+      - path: mantis:Group65185/mantis:transform127
+        weight: 1
+      - path: mantis:Group65186
+        weight: 1
+      - path: mantis:Group65186/mantis:transform126
+        weight: 1
+      - path: mantis:Group65187
+        weight: 1
+      - path: mantis:Group65187/mantis:transform125
+        weight: 1
+      - path: mantis:Group65188
+        weight: 1
+      - path: mantis:Group65188/mantis:transform124
+        weight: 1
+      - path: mantis:Group65189
+        weight: 1
+      - path: mantis:Group65189/mantis:transform123
+        weight: 1
+      - path: mantis:Group65190
+        weight: 1
+      - path: mantis:Group65190/mantis:transform122
+        weight: 1
+      - path: mantis:Group65191
+        weight: 1
+      - path: mantis:Group65191/mantis:transform121
+        weight: 1
+      - path: mantis:Group65192
+        weight: 1
+      - path: mantis:Group65192/mantis:transform120
+        weight: 1
+      - path: mantis:Group65193
+        weight: 1
+      - path: mantis:Group65193/mantis:transform119
+        weight: 1
+      - path: mantis:Group65194
+        weight: 1
+      - path: mantis:Group65194/mantis:transform118
+        weight: 1
+      - path: mantis:Group65195
+        weight: 1
+      - path: mantis:Group65195/mantis:transform117
+        weight: 1
+      - path: mantis:Group65196
+        weight: 1
+      - path: mantis:Group65196/mantis:transform116
+        weight: 1
+      - path: mantis:Group65197
+        weight: 1
+      - path: mantis:Group65197/mantis:transform115
+        weight: 1
+      - path: mantis:Group65198
+        weight: 1
+      - path: mantis:Group65198/mantis:transform114
+        weight: 1
+      - path: mantis:Group65199
+        weight: 1
+      - path: mantis:Group65199/mantis:transform113
+        weight: 1
+      - path: mantis:Group65200
+        weight: 1
+      - path: mantis:Group65200/mantis:transform112
+        weight: 1
+      - path: mantis:Group65201
+        weight: 1
+      - path: mantis:Group65201/mantis:transform111
+        weight: 1
+      - path: mantis:Group65202
+        weight: 1
+      - path: mantis:Group65202/mantis:transform110
+        weight: 1
+      - path: mantis:Group65203
+        weight: 1
+      - path: mantis:Group65203/mantis:transform109
+        weight: 1
+      - path: mantis:Group65204
+        weight: 1
+      - path: mantis:Group65204/mantis:transform108
+        weight: 1
+      - path: mantis:Group65205
+        weight: 1
+      - path: mantis:Group65205/mantis:transform107
+        weight: 1
+      - path: mantis:Group65206
+        weight: 1
+      - path: mantis:Group65206/mantis:transform106
+        weight: 1
+      - path: mantis:Group65207
+        weight: 1
+      - path: mantis:Group65207/mantis:transform105
+        weight: 1
+      - path: mantis:Group65208
+        weight: 1
+      - path: mantis:Group65208/mantis:transform104
+        weight: 1
+      - path: mantis:Group65209
+        weight: 1
+      - path: mantis:Group65209/mantis:transform103
+        weight: 1
+      - path: mantis:Group65210
+        weight: 1
+      - path: mantis:Group65210/mantis:transform102
+        weight: 1
+      - path: mantis:Group65211
+        weight: 1
+      - path: mantis:Group65211/mantis:transform101
+        weight: 1
+      - path: mantis:Group65212
+        weight: 1
+      - path: mantis:Group65212/mantis:transform100
+        weight: 1
+      - path: mantis:Group65213
+        weight: 1
+      - path: mantis:Group65213/mantis:transform99
+        weight: 1
+      - path: mantis:Group65214
+        weight: 1
+      - path: mantis:Group65214/mantis:transform98
+        weight: 1
+      - path: mantis:Group65215
+        weight: 1
+      - path: mantis:Group65215/mantis:transform97
+        weight: 1
+      - path: mantis:Group65216
+        weight: 1
+      - path: mantis:Group65216/mantis:transform96
+        weight: 1
+      - path: mantis:Group65217
+        weight: 1
+      - path: mantis:Group65217/mantis:transform95
+        weight: 1
+      - path: mantis:Group65218
+        weight: 1
+      - path: mantis:Group65218/mantis:transform94
+        weight: 1
+      - path: mantis:Group65219
+        weight: 1
+      - path: mantis:Group65219/mantis:transform93
+        weight: 1
+      - path: mantis:Group65220
+        weight: 1
+      - path: mantis:Group65220/mantis:transform92
+        weight: 1
+      - path: mantis:Group65221
+        weight: 1
+      - path: mantis:Group65221/mantis:transform91
+        weight: 1
+      - path: mantis:Group65222
+        weight: 1
+      - path: mantis:Group65222/mantis:transform90
+        weight: 1
+      - path: mantis:Group65223
+        weight: 1
+      - path: mantis:Group65223/mantis:transform89
+        weight: 1
+      - path: mantis:Group65224
+        weight: 1
+      - path: mantis:Group65224/mantis:transform88
+        weight: 1
+      - path: mantis:Group65225
+        weight: 1
+      - path: mantis:Group65225/mantis:transform87
+        weight: 1
+      - path: mantis:Group65226
+        weight: 1
+      - path: mantis:Group65226/mantis:transform86
+        weight: 1
+      - path: mantis:Group65227
+        weight: 1
+      - path: mantis:Group65227/mantis:transform85
+        weight: 1
+      - path: mantis:Group65228
+        weight: 1
+      - path: mantis:Group65228/mantis:transform84
+        weight: 1
+      - path: mantis:Group65229
+        weight: 1
+      - path: mantis:Group65229/mantis:transform83
+        weight: 1
+      - path: mantis:Group65230
+        weight: 1
+      - path: mantis:Group65230/mantis:transform82
+        weight: 1
+      - path: mantis:Group65231
+        weight: 1
+      - path: mantis:Group65231/mantis:transform81
+        weight: 1
+      - path: mantis:Group65232
+        weight: 1
+      - path: mantis:Group65232/mantis:transform80
+        weight: 1
+      - path: mantis:Group65233
+        weight: 1
+      - path: mantis:Group65233/mantis:transform79
+        weight: 1
+      - path: mantis:Group65234
+        weight: 1
+      - path: mantis:Group65234/mantis:transform78
+        weight: 1
+      - path: mantis:Group65235
+        weight: 1
+      - path: mantis:Group65235/mantis:transform77
+        weight: 1
+      - path: mantis:Group65236
+        weight: 1
+      - path: mantis:Group65236/mantis:transform76
+        weight: 1
+      - path: mantis:Group65237
+        weight: 1
+      - path: mantis:Group65237/mantis:transform75
+        weight: 1
+      - path: mantis:Group65238
+        weight: 1
+      - path: mantis:Group65238/mantis:transform74
+        weight: 1
+      - path: mantis:Group65239
+        weight: 1
+      - path: mantis:Group65239/mantis:transform73
+        weight: 1
+      - path: mantis:Group65240
+        weight: 1
+      - path: mantis:Group65240/mantis:transform72
+        weight: 1
+      - path: mantis:Group65241
+        weight: 1
+      - path: mantis:Group65241/mantis:transform71
+        weight: 1
+      - path: mantis:Group65242
+        weight: 1
+      - path: mantis:Group65242/mantis:transform70
+        weight: 1
+      - path: mantis:Group65243
+        weight: 1
+      - path: mantis:Group65243/mantis:transform69
+        weight: 1
+      - path: mantis:Group65244
+        weight: 1
+      - path: mantis:Group65244/mantis:transform68
+        weight: 1
+      - path: mantis:Group65245
+        weight: 1
+      - path: mantis:Group65245/mantis:transform67
+        weight: 1
+      - path: mantis:Group65246
+        weight: 1
+      - path: mantis:Group65246/mantis:transform66
+        weight: 1
+      - path: mantis:Group65247
+        weight: 1
+      - path: mantis:Group65247/mantis:transform65
+        weight: 1
+      - path: mantis:Group65248
+        weight: 1
+      - path: mantis:Group65248/mantis:transform64
+        weight: 1
+      - path: mantis:Group65249
+        weight: 1
+      - path: mantis:Group65249/mantis:transform63
+        weight: 1
+      - path: mantis:Group65250
+        weight: 1
+      - path: mantis:Group65250/mantis:transform62
+        weight: 1
+      - path: mantis:Group65251
+        weight: 1
+      - path: mantis:Group65251/mantis:transform61
+        weight: 1
+      - path: mantis:Group65252
+        weight: 1
+      - path: mantis:Group65252/mantis:transform60
+        weight: 1
+      - path: mantis:Group65253
+        weight: 1
+      - path: mantis:Group65253/mantis:transform59
+        weight: 1
+      - path: mantis:Group65254
+        weight: 1
+      - path: mantis:Group65254/mantis:transform58
+        weight: 1
+      - path: mantis:Group65255
+        weight: 1
+      - path: mantis:Group65255/mantis:transform57
+        weight: 1
+      - path: mantis:Group65256
+        weight: 1
+      - path: mantis:Group65256/mantis:transform56
+        weight: 1
+      - path: mantis:Group65257
+        weight: 1
+      - path: mantis:Group65257/mantis:transform55
+        weight: 1
+      - path: mantis:Group65258
+        weight: 1
+      - path: mantis:Group65258/mantis:transform54
+        weight: 1
+      - path: mantis:Group65259
+        weight: 1
+      - path: mantis:Group65259/mantis:transform53
+        weight: 1
+      - path: mantis:Group65260
+        weight: 1
+      - path: mantis:Group65260/mantis:transform52
+        weight: 1
+      - path: mantis:Group65261
+        weight: 1
+      - path: mantis:Group65261/mantis:transform51
+        weight: 1
+      - path: mantis:Group65262
+        weight: 1
+      - path: mantis:Group65262/mantis:transform50
+        weight: 1
+      - path: mantis:Group65263
+        weight: 1
+      - path: mantis:Group65263/mantis:transform49
+        weight: 1
+      - path: mantis:Group65264
+        weight: 1
+      - path: mantis:Group65264/mantis:transform48
+        weight: 1
+      - path: mantis:Group65265
+        weight: 1
+      - path: mantis:Group65265/mantis:transform47
+        weight: 1
+      - path: mantis:Group65266
+        weight: 1
+      - path: mantis:Group65266/mantis:transform46
+        weight: 1
+      - path: mantis:Group65267
+        weight: 1
+      - path: mantis:Group65267/mantis:transform45
+        weight: 1
+      - path: mantis:Group65268
+        weight: 1
+      - path: mantis:Group65268/mantis:transform44
+        weight: 1
+      - path: mantis:Group65269
+        weight: 1
+      - path: mantis:Group65269/mantis:transform43
+        weight: 1
+      - path: mantis:Group65270
+        weight: 1
+      - path: mantis:Group65270/mantis:transform42
+        weight: 1
+      - path: mantis:Group65271
+        weight: 1
+      - path: mantis:Group65271/mantis:transform41
+        weight: 1
+      - path: mantis:Group65272
+        weight: 1
+      - path: mantis:Group65272/mantis:transform40
+        weight: 1
+      - path: mantis:Group65273
+        weight: 1
+      - path: mantis:Group65273/mantis:transform39
+        weight: 1
+      - path: mantis:Group65274
+        weight: 1
+      - path: mantis:Group65274/mantis:transform38
+        weight: 1
+      - path: mantis:Group65275
+        weight: 1
+      - path: mantis:Group65275/mantis:transform37
+        weight: 1
+      - path: mantis:Group65276
+        weight: 1
+      - path: mantis:Group65276/mantis:transform36
+        weight: 1
+      - path: mantis:Group65277
+        weight: 1
+      - path: mantis:Group65277/mantis:transform35
+        weight: 1
+      - path: mantis:Group65278
+        weight: 1
+      - path: mantis:Group65278/mantis:transform34
+        weight: 1
+      - path: mantis:Group65279
+        weight: 1
+      - path: mantis:Group65279/mantis:transform33
+        weight: 1
+      - path: mantis:Group65280
+        weight: 1
+      - path: mantis:Group65280/mantis:transform32
+        weight: 1
+      - path: mantis:Group65281
+        weight: 1
+      - path: mantis:Group65281/mantis:transform31
+        weight: 1
+      - path: mantis:Group65282
+        weight: 1
+      - path: mantis:Group65282/mantis:transform30
+        weight: 1
+      - path: mantis:Group65283
+        weight: 1
+      - path: mantis:Group65283/mantis:transform29
+        weight: 1
+      - path: mantis:Group65284
+        weight: 1
+      - path: mantis:Group65284/mantis:transform28
+        weight: 1
+      - path: mantis:Group65285
+        weight: 1
+      - path: mantis:Group65285/mantis:transform27
+        weight: 1
+      - path: mantis:Group65286
+        weight: 1
+      - path: mantis:Group65286/mantis:transform26
+        weight: 1
+      - path: mantis:Group65287
+        weight: 1
+      - path: mantis:Group65287/mantis:transform25
+        weight: 1
+      - path: mantis:Group65288
+        weight: 1
+      - path: mantis:Group65288/mantis:transform24
+        weight: 1
+      - path: mantis:Group65289
+        weight: 1
+      - path: mantis:Group65289/mantis:transform23
+        weight: 1
+      - path: mantis:Group65290
+        weight: 1
+      - path: mantis:Group65290/mantis:transform22
+        weight: 1
+      - path: mantis:Group65291
+        weight: 1
+      - path: mantis:Group65291/mantis:transform21
+        weight: 1
+      - path: mantis:Group65292
+        weight: 1
+      - path: mantis:Group65292/mantis:transform20
+        weight: 1
+      - path: mantis:Group65293
+        weight: 1
+      - path: mantis:Group65293/mantis:transform19
+        weight: 1
+      - path: mantis:Group65294
+        weight: 1
+      - path: mantis:Group65294/mantis:transform18
+        weight: 1
+      - path: mantis:Group65295
+        weight: 1
+      - path: mantis:Group65295/mantis:transform17
+        weight: 1
+      - path: mantis:Group65296
+        weight: 1
+      - path: mantis:Group65296/mantis:transform16
+        weight: 1
+      - path: mantis:Group65297
+        weight: 1
+      - path: mantis:Group65297/mantis:transform15
+        weight: 1
+      - path: mantis:Group65298
+        weight: 1
+      - path: mantis:Group65298/mantis:transform14
+        weight: 1
+      - path: mantis:Group65299
+        weight: 1
+      - path: mantis:Group65299/mantis:transform13
+        weight: 1
+      - path: mantis:Group65300
+        weight: 1
+      - path: mantis:Group65300/mantis:transform12
+        weight: 1
+      - path: mantis:Group65301
+        weight: 1
+      - path: mantis:Group65301/mantis:transform11
+        weight: 1
+      - path: mantis:Group65302
+        weight: 1
+      - path: mantis:Group65302/mantis:transform10
+        weight: 1
+      - path: mantis:Group65303
+        weight: 1
+      - path: mantis:Group65303/mantis:transform9
+        weight: 1
+      - path: mantis:Group65304
+        weight: 1
+      - path: mantis:Group65304/mantis:transform8
+        weight: 1
+      - path: mantis:Group65305
+        weight: 1
+      - path: mantis:Group65305/mantis:transform7
+        weight: 1
+      - path: mantis:Group65306
+        weight: 1
+      - path: mantis:Group65306/mantis:transform6
+        weight: 1
+      - path: mantis:Group65307
+        weight: 1
+      - path: mantis:Group65307/mantis:transform5
+        weight: 1
+      - path: mantis:Group65308
+        weight: 1
+      - path: mantis:Group65308/mantis:transform4
+        weight: 1
+      - path: mantis:Group65309
+        weight: 1
+      - path: mantis:Group65309/mantis:transform3
+        weight: 1
+      - path: mantis:Group65310
+        weight: 1
+      - path: mantis:Group65310/mantis:transform2
+        weight: 1
+      - path: mantis:Group65311
+        weight: 1
+      - path: mantis:Group65311/mantis:transform1
+        weight: 1
+      - path: mantis:Group65312
+        weight: 1
+      - path: mantis:Group65312/mantis:Group65312_MeshPart0
+        weight: 1
+      - path: mantis:Group65312/mantis:Group65312_MeshPart1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/root
+        weight: 1
+      - path: nurbsCircle1/root/lmleg1
+        weight: 1
+      - path: nurbsCircle1/root/lmleg1/lmleg2
+        weight: 1
+      - path: nurbsCircle1/root/lmleg1/lmleg2/lmleg3
+        weight: 1
+      - path: nurbsCircle1/root/lmleg1/lmleg2/lmleg3/lmleg4
+        weight: 1
+      - path: nurbsCircle1/root/lmleg1/lmleg2/lmleg3/lmleg4/lmlegl
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/head
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/head/headl
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/l_arm1
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/l_arm1/larm2
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/l_arm1/larm2/larm3
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/l_arm1/larm2/larm3/larm4
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/l_arm1/larm2/larm3/larm4/larml
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/rarm1
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/rarm1/rarm2
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/rarm1/rarm2/rarm3
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/rarm1/rarm2/rarm3/rarm4
+        weight: 1
+      - path: nurbsCircle1/root/neck_lower/front_root/rarm1/rarm2/rarm3/rarm4/rarml
+        weight: 1
+      - path: nurbsCircle1/root/rmleg1
+        weight: 1
+      - path: nurbsCircle1/root/rmleg1/rmleg2
+        weight: 1
+      - path: nurbsCircle1/root/rmleg1/rmleg2/rmleg3
+        weight: 1
+      - path: nurbsCircle1/root/rmleg1/rmleg2/rmleg3/rmleg4
+        weight: 1
+      - path: nurbsCircle1/root/rmleg1/rmleg2/rmleg3/rmleg4/rmlegl
+        weight: 1
+      - path: nurbsCircle1/root/spine1
+        weight: 1
+      - path: nurbsCircle1/root/spine1/lleg1
+        weight: 1
+      - path: nurbsCircle1/root/spine1/lleg1/lleg2
+        weight: 1
+      - path: nurbsCircle1/root/spine1/lleg1/lleg2/lleg3
+        weight: 1
+      - path: nurbsCircle1/root/spine1/lleg1/lleg2/lleg3/lleg4
+        weight: 1
+      - path: nurbsCircle1/root/spine1/lleg1/lleg2/lleg3/lleg4/llegl
+        weight: 1
+      - path: nurbsCircle1/root/spine1/rleg1
+        weight: 1
+      - path: nurbsCircle1/root/spine1/rleg1/rleg2
+        weight: 1
+      - path: nurbsCircle1/root/spine1/rleg1/rleg2/rleg3
+        weight: 1
+      - path: nurbsCircle1/root/spine1/rleg1/rleg2/rleg3/rleg4
+        weight: 1
+      - path: nurbsCircle1/root/spine1/rleg1/rleg2/rleg3/rleg4/rlegl
+        weight: 1
+      - path: nurbsCircle1/root/spine1/spine2
+        weight: 1
+      - path: nurbsCircle1/root/spine1/spine2/spine3
+        weight: 1
+      - path: nurbsCircle1/root/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: nurbsCircle1/root/spine1/spine2/spine3/spine4/spinel
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle1
+        weight: 1
+      - path: nurbsCircle3
+        weight: 1
+      - path: nurbsCircle3/ikHandle2
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: nurbsCircle4/ikHandle4
+        weight: 1
+      - path: nurbsCircle5
+        weight: 1
+      - path: nurbsCircle5/ikHandle3
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

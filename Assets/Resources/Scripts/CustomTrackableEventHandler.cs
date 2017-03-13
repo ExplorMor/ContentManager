@@ -1,0 +1,181 @@
+﻿using UnityEngine;
+
+using Vuforia;
+using System.Collections;
+
+
+
+public class CustomTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
+{
+	private TrackableBehaviour mTrackableBehaviour;
+
+	private bool mHasBeenFound = false;
+	private bool mLostTracking;
+	private float mSecondsSinceLost;
+
+    public string assetBundleID;
+
+	// Use this for initialization
+	
+	void Start () 
+	{
+	
+	
+		mTrackableBehaviour = GetComponent<TrackableBehaviour>();
+            if (mTrackableBehaviour)
+            {
+                mTrackableBehaviour.RegisterTrackableEventHandler(this);
+            }
+
+		OnTrackingLost();
+	}
+	
+
+
+	public void OnTrackableStateChanged(
+                                        TrackableBehaviour.Status previousStatus,
+                                        TrackableBehaviour.Status newStatus)
+        {
+            if (newStatus == TrackableBehaviour.Status.DETECTED ||
+                newStatus == TrackableBehaviour.Status.TRACKED ||
+                newStatus == TrackableBehaviour.Status.EXTENDED_TRACKED)
+            {
+                OnTrackingFound();
+            }
+            else
+            {
+                OnTrackingLost();
+            }
+        }
+
+	void Update()
+	{
+		// Pause the video if tracking is lost for more than two seconds
+		if (mHasBeenFound && mLostTracking)
+		{
+			if (mSecondsSinceLost > 2.0f)
+			{
+				VideoPlaybackBehaviour video = GetComponentInChildren<VideoPlaybackBehaviour>();
+				if (video != null &&
+				    video.CurrentState == VideoPlayerHelper.MediaState.PLAYING)
+				{
+#if !UNITY_EDITOR
+					video.VideoPlayer.Pause();
+#endif
+				}
+				
+				mLostTracking = false;
+			}
+			
+			mSecondsSinceLost += Time.deltaTime;
+		}
+	}
+
+	private void OnTrackingFound()
+	{
+        //Download the associated card target
+        //FindObjectOfType<AWSSDK.Examples.S3Example>().GetObject(assetBundleID);
+
+        //Getting object asynchronously may cause errors if control flow continues here. 
+
+        //**Canvas Functionality**//
+        Canvas UICanvas = GetComponentInChildren<Canvas>();
+        UICanvas.enabled = true;
+        //************************//
+
+		Renderer[] rendererComponents = GetComponentsInChildren<Renderer>();
+		Collider[] colliderComponents = GetComponentsInChildren<Collider>();
+		
+		// Enable rendering:
+		foreach (Renderer component in rendererComponents)
+		{
+			component.enabled = true;
+		}
+		
+		// Enable colliders:
+		foreach (Collider component in colliderComponents)
+		{
+			component.enabled = true;
+		}
+		
+		Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
+		
+		// Optionally play the video automatically when the target is found
+
+#if !UNITY_EDITOR		
+		VideoPlaybackBehaviour video = GetComponentInChildren<VideoPlaybackBehaviour>();
+		if (video != null && video.AutoPlay)
+		{
+			if (video.VideoPlayer.IsPlayableOnTexture())
+			{
+				VideoPlayerHelper.MediaState state = video.VideoPlayer.GetStatus();
+				if (state == VideoPlayerHelper.MediaState.PAUSED ||
+				    state == VideoPlayerHelper.MediaState.READY ||
+				    state == VideoPlayerHelper.MediaState.STOPPED)
+				{
+					// Pause other videos before playing this one
+					PauseOtherVideos(video);
+					
+					// Play this video on texture where it left off
+					video.VideoPlayer.Play(false, video.VideoPlayer.GetCurrentPosition());
+				}
+				else if (state == VideoPlayerHelper.MediaState.REACHED_END)
+				{
+					// Pause other videos before playing this one
+					PauseOtherVideos(video);
+					
+					// Play this video from the beginning
+					video.VideoPlayer.Play(false, 0);
+				}
+			}
+		}
+#endif
+		
+		mHasBeenFound = true;
+		mLostTracking = false;
+	}
+
+
+        private void OnTrackingLost()
+        {
+            Renderer[] rendererComponents = GetComponentsInChildren<Renderer>(true);
+            Collider[] colliderComponents = GetComponentsInChildren<Collider>(true);
+	
+		    Canvas UICanvas = GetComponentInChildren<Canvas>();
+
+            // Disable rendering:
+            foreach (Renderer component in rendererComponents)
+            {
+                component.enabled = false;
+            }
+
+            // Disable colliders:
+            foreach (Collider component in colliderComponents)
+            {
+                component.enabled = false;
+            }
+
+		    UICanvas.enabled = false;
+            Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
+        }
+
+	// Pause all videos except this one
+	private void PauseOtherVideos(VideoPlaybackBehaviour currentVideo)
+	{
+#if !UNITY_EDITOR
+		VideoPlaybackBehaviour[] videos = (VideoPlaybackBehaviour[])
+			FindObjectsOfType(typeof(VideoPlaybackBehaviour));
+		
+		foreach (VideoPlaybackBehaviour video in videos)
+		{
+			if (video != currentVideo)
+			{
+				if (video.CurrentState == VideoPlayerHelper.MediaState.PLAYING)
+				{
+					video.VideoPlayer.Pause();
+				}
+			}
+		}
+#endif
+	}
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Zebra_Longwing" size="1.000000 1.112426" />
+    <ImageTarget name="Silver_banded_hairstreak" size="1.000000 1.123529" />
+    <ImageTarget name="Question_Mark" size="1.000000 1.135560" />
+    <ImageTarget name="Palamedes_Swallowtail" size="1.000000 1.137725" />
+    <ImageTarget name="Monarch" size="1.000000 1.107422" />
+    <ImageTarget name="Miami_Blue" size="1.000000 1.115010" />
+    <ImageTarget name="Leafwing" size="1.000000 1.121514" />
+    <ImageTarget name="Florida_White" size="1.000000 1.118110" />
+    <ImageTarget name="Elfin" size="1.000000 1.132411" />
+    <ImageTarget name="Duskywing" size="1.000000 1.118812" />
+    <ImageTarget name="Dogface" size="1.000000 1.127745" />
+    <ImageTarget name="Buckeye" size="1.000000 1.122000" />
+    <ImageTarget name="Bartram_Scrub_Hairstreak" size="1.000000 1.124753" />
+    <ImageTarget name="Schaus_Swallowtail" size="1.000000 1.132107" />
+    <ImageTarget name="Atala" size="1.000000 1.124016" />
+    <ImageTarget name="Schaus_beer_logo" size="1.000000 0.996042" />
+    <ImageTarget name="WeDigBioAlpha" size="10.000000 9.559229" />
+    <ImageTarget name="THORNBUG_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="STINKBUG_PARASITOID_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="BRACHIOPOD_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="CARDINAL_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="MACROFUNGI_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="ELK_KELP_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="HUMMINGBIRD_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="LICHEN_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="MANTIS_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="ZEBRA_MUSSEL_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="PITCHER_PLANT_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="SCARAB_TRACKABLE" size="1.000000 1.163591" />
+    <ImageTarget name="Channel_Catfish" size="100.000000 116.359062" />
+    <ImageTarget name="TSETSE_TRACKABLE" size="1.000000 1.163591" />
+  </Tracking>
+</QCARConfig>
