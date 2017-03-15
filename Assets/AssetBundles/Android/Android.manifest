@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 2547091905
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: thornbug
+      Dependencies: {}
+    Info_1:
+      Name: pitcher_plant
+      Dependencies: {}
+    Info_2:
+      Name: hummingbird
+      Dependencies: {}
+    Info_3:
+      Name: ocotillo
+      Dependencies: {}
+    Info_4:
+      Name: stinkbug
+      Dependencies: {}
+    Info_5:
+      Name: zebra_mussel
+      Dependencies: {}
+    Info_6:
+      Name: leaf_bat
+      Dependencies: {}
+    Info_7:
+      Name: cardinal_flower
+      Dependencies: {}
+    Info_8:
+      Name: we_dig_bio
+      Dependencies: {}
+    Info_9:
+      Name: ringtail
+      Dependencies: {}
+    Info_10:
+      Name: elk_kelp
+      Dependencies: {}
+    Info_11:
+      Name: lichen
+      Dependencies: {}
+    Info_12:
+      Name: tarantula_hawk
+      Dependencies: {}
+    Info_13:
+      Name: scarab
+      Dependencies: {}
+    Info_14:
+      Name: poppy
+      Dependencies: {}
+    Info_15:
+      Name: miami_blue
+      Dependencies: {}
+    Info_16:
+      Name: daisy_earthstar
+      Dependencies: {}
+    Info_17:
+      Name: brachiopod
+      Dependencies: {}
+    Info_18:
+      Name: monarch
+      Dependencies:
+        Dependency_0: miami_blue
+    Info_19:
+      Name: mantis
+      Dependencies: {}
+    Info_20:
+      Name: catfish
+      Dependencies: {}
+    Info_21:
+      Name: tsetse
+      Dependencies: {}
+    Info_22:
+      Name: gila_monster
+      Dependencies: {}

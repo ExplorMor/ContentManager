@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 491610994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ea1063cd4dad5dc988bbce19fc3d1f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 24a47ed6402ea82e1056a981bc7be31b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85f2b12ac4ed5147bd30682e5d88bee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Models/Sonoran_Models/Ringtail Skull/RingTailSkullFINAL.obj
+- Assets/Resources/Models/Sonoran_Models/Ringtail Skull/RingTailSkullFINAL_GeneratedMat1.png
+- Assets/Resources/Models/Sonoran_Models/Ringtail Skull/RingTailSkullFINAL.mtl
+- Assets/Resources/Prefabs/Sonoran/Ringtail_Cat.prefab
+- Assets/Resources/Models/Sonoran_Models/Ringtail Skull/RingTailSkullFINAL_material_0.jpg
+- Assets/Resources/Models/Sonoran_Models/Ringtail Skull/Materials/GeneratedMat1.mat
+- Assets/Resources/Models/Sonoran_Models/Ringtail Skull/Materials/material_0.mat
+Dependencies: []

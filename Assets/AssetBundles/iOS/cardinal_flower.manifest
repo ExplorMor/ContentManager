@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 10413483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 094c449fd6be1ac3815851d88fce8b0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ba2ffedd5b00a8fbb7de88fa1796bbb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae7ce59a10ad25429c1a8b23b182cda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38ffe8ac00ef93a43b281671e5a14c08, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Models/Libraries_of_Life_Models/CARDINALFLOWER/Cardinal2 copy.obj
+- Assets/Resources/Prefabs/iDigBio/Cardinal_Flower.prefab
+- Assets/Resources/Models/Libraries_of_Life_Models/CARDINALFLOWER/Materials/Cardinal2.jpg
+- Assets/Resources/Audio/LibrariesOfLife/Cardinal_Flower.mp3
+- Assets/Resources/Text/cardinal_flower.txt
+- Assets/Resources/Models/Libraries_of_Life_Models/CARDINALFLOWER/Materials/defaultMat.mat
+Dependencies: []

@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1551752438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b11648eb0076c796b7724784f9aa356f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0872ae3960e094071dd3d3d4090b2be7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae7ce59a10ad25429c1a8b23b182cda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34d1e5e8c0ae5984685dbb7f5813515f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38ffe8ac00ef93a43b281671e5a14c08, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/Optimized-Cladonia_subtenuis_20101219_060_099_JH2315_cFL.jpg
+- Assets/Resources/Audio/LibrariesOfLife/Reindeer_lichens.mp3
+- Assets/Resources/Models/Libraries_of_Life_Models/LICHEN/Materials/Cladonia.mat
+- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/Optimized-Cladonia_evansii_20140324_004_001_JH6262_eNC.jpg
+- Assets/Resources/Prefabs/iDigBio/Lichen.prefab
+- Assets/Resources/Models/Libraries_of_Life_Models/LICHEN/Materials/Cladonia.jpg
+- Assets/Resources/Models/Libraries_of_Life_Models/LICHEN/Cladonia.dae
+Dependencies: []

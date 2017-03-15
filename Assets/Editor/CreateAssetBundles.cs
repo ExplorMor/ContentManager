@@ -7,13 +7,27 @@ public class CreateAssetBundles
     [MenuItem ("Assets/Build AssetBundles")]
     static void BuildAllAssetBundles ()
     {
-		BuildPipeline.BuildAssetBundles ("Assets/AssetBundles", BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+		string platformPath="";
+		if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.Android)
+			platformPath = "/Android";
+		else if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS)
+			platformPath = "/iOS";
+		else
+			Debug.Log (EditorUserBuildSettings.activeBuildTarget);
+		BuildPipeline.BuildAssetBundles ("Assets/AssetBundles"+platformPath, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
     }
 
 	[MenuItem ("Assets/Load AssetBundles")]
 	static void LoadAllAssetBundles()
 	{
-		foreach (string ff in System.IO.Directory.GetFiles(Application.dataPath+"/AssetBundles")) {
+		string platformPath="";
+		if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.Android)
+			platformPath = "/Android";
+		else if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS)
+			platformPath = "/iOS";
+		else
+			Debug.Log (EditorUserBuildSettings.activeBuildTarget);
+		foreach (string ff in System.IO.Directory.GetFiles(Application.dataPath+"/AssetBundles"+platformPath)) {
 			Debug.Log (ff);
 			if(System.IO.FileAttributes.Hidden != System.IO.File.GetAttributes (ff) && !ff.Contains("meta"))
 			{
