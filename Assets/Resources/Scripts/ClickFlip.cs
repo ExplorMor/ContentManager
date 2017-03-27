@@ -19,13 +19,11 @@ public class ClickFlip : MonoBehaviour
 		
 		if(Input.GetMouseButtonDown(0))
 		{
-			Debug.Log ("2");
 			Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 			RaycastHit hit;
 
 			if (sCollider != null)
 			{
-				Debug.Log ("3");
 				if (sCollider.Raycast(ray, out hit, 10000.0F))
 					Flip ();
 			}
