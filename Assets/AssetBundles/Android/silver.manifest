@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3908153827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85d93fb0f17e9b510d936fcdfa85fe70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f5e7caf76e32065d5be52b5ef027783
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image049.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image051.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image050.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image052.jpg
+- Assets/Resources/Audio/Florida/Silver Banded Hairstreak.mp3
+Dependencies: []

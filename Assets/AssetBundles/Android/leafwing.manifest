@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 1577898340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 353c6713fe408069fcf0117fbded98f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31f44cf64bd1370448c06157201ba3ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 539389d15a7ff4d5bb1347281c1c9993, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae7ce59a10ad25429c1a8b23b182cda, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/leaf_wing.mtl
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/leafwing.jpg
+- Assets/Resources/Audio/Florida/Florida Leafwing.mp3
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/Material.mat
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/leaf_wing.obj
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image023.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image026.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image022.jpg
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_0.001.mat
+- Assets/Resources/Prefabs/Florida/Leafwing.prefab
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image024.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image025.jpg
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_0.mat
+Dependencies: []

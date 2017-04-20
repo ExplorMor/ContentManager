@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4271634470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfb05b66af68076885d1401617ba509d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f5e7caf76e32065d5be52b5ef027783
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Bartram/image008.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Bartram/image009.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Bartram/image006.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Bartram/image007.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Bartram/image005.jpg
+- Assets/Resources/Audio/Florida/Bartrams Scrub Hairstreak.mp3
+Dependencies: []

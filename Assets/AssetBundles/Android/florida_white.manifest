@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 872239393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3652a7c7fec6547734d9359b25c07c39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30639e88ef12cc31e0037a768c5e7872
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae7ce59a10ad25429c1a8b23b182cda, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Models/Florida_Museum/Florida_White/florida_white.obj
+- Assets/Resources/Audio/Florida/Florida White.mp3
+- Assets/Resources/Models/Florida_Museum/Florida_White/Materials/Material.mat
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Florida_White/image021.jpg
+- Assets/Resources/Models/Florida_Museum/Florida_White/Materials/material_0.mat
+- Assets/Resources/Models/Florida_Museum/Florida_White/Materials/material_0_NONE.mat
+- Assets/Resources/Prefabs/Florida/FloridaWhite.prefab
+- Assets/Resources/Models/Florida_Museum/Florida_White/Materials/None.mat
+- Assets/Resources/Models/Florida_Museum/Florida_White/florida_white.mtl
+- Assets/Resources/Models/Florida_Museum/Florida_White/Materials/material_0.001.mat
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Florida_White/image020.jpg
+- Assets/Resources/Models/Florida_Museum/Florida_White/florida_ white.jpg
+Dependencies: []

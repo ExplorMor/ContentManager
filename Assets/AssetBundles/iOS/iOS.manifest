@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1832187400
+CRC: 595341481
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,31 +15,31 @@ AssetBundleManifest:
       Name: ocotillo
       Dependencies: {}
     Info_4:
-      Name: stinkbug
+      Name: miami_blue
       Dependencies: {}
     Info_5:
-      Name: zebra_mussel
+      Name: stinkbug
       Dependencies: {}
     Info_6:
-      Name: leaf_bat
+      Name: zebra_mussel
       Dependencies: {}
     Info_7:
-      Name: cardinal_flower
+      Name: leaf_bat
       Dependencies: {}
     Info_8:
-      Name: we_dig_bio
+      Name: cardinal_flower
       Dependencies: {}
     Info_9:
-      Name: ringtail
+      Name: we_dig_bio
       Dependencies: {}
     Info_10:
-      Name: elk_kelp
+      Name: ringtail
       Dependencies: {}
     Info_11:
-      Name: lichen
+      Name: elk_kelp
       Dependencies: {}
     Info_12:
-      Name: tarantula_hawk
+      Name: lichen
       Dependencies: {}
     Info_13:
       Name: scarab
@@ -48,27 +48,65 @@ AssetBundleManifest:
       Name: poppy
       Dependencies: {}
     Info_15:
-      Name: miami_blue
-      Dependencies: {}
-    Info_16:
       Name: daisy_earthstar
       Dependencies: {}
-    Info_17:
+    Info_16:
       Name: brachiopod
       Dependencies: {}
-    Info_18:
+    Info_17:
       Name: monarch
-      Dependencies:
-        Dependency_0: miami_blue
-    Info_19:
+      Dependencies: {}
+    Info_18:
       Name: mantis
       Dependencies: {}
-    Info_20:
+    Info_19:
       Name: catfish
       Dependencies: {}
-    Info_21:
+    Info_20:
       Name: tsetse
+      Dependencies: {}
+    Info_21:
+      Name: tarantula_hawk
       Dependencies: {}
     Info_22:
       Name: gila_monster
+      Dependencies: {}
+    Info_23:
+      Name: buckeye
+      Dependencies: {}
+    Info_24:
+      Name: dogface
+      Dependencies: {}
+    Info_25:
+      Name: duskywing
+      Dependencies: {}
+    Info_26:
+      Name: elfin
+      Dependencies: {}
+    Info_27:
+      Name: florida_white
+      Dependencies: {}
+    Info_28:
+      Name: leafwing
+      Dependencies: {}
+    Info_29:
+      Name: question_mark
+      Dependencies: {}
+    Info_30:
+      Name: schaus
+      Dependencies: {}
+    Info_31:
+      Name: palamedes
+      Dependencies: {}
+    Info_32:
+      Name: atala
+      Dependencies: {}
+    Info_33:
+      Name: zebra_longwing
+      Dependencies: {}
+    Info_34:
+      Name: bartram
+      Dependencies: {}
+    Info_35:
+      Name: silver
       Dependencies: {}

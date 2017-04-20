@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 417488869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21a995e271b67f897f9a8f1119abd957
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image049.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image051.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image050.jpg
+- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Silver/image052.jpg
+Dependencies: []

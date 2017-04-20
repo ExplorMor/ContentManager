@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3270390663
+CRC: 966202106
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2d7a44358e8dd5945f6dd18688abe9b0
+    Hash: b9c7786c4f51ea59317eb888b8ffc15e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 26bd9e453ebdce9e210922f2508c6afc
@@ -58,14 +58,14 @@ ClassTypes:
 Assets:
 - Assets/Resources/Models/Sonoran_Models/Ocotillo/Materials/Material.002.mat
 - Assets/Resources/Models/Sonoran_Models/Ocotillo/anthers.obj
-- Assets/Resources/Models/Sonoran_Models/Ocotillo/ocotillo.obj
-- Assets/Resources/Models/Sonoran_Models/Ocotillo/Ocotillo_material_0.jpg
+- Assets/Resources/Models/Sonoran_Models/Ocotillo/stem.obj
+- Assets/Resources/Models/Sonoran_Models/Ocotillo/Ocotillo325_material_0.jpg
 - Assets/Resources/Models/Sonoran_Models/Ocotillo/stamen.mtl
-- Assets/Resources/Models/Sonoran_Models/Ocotillo/ocotillo.mtl
-- Assets/Resources/Models/Sonoran_Models/Ocotillo/Materials/material_0.mat
 - Assets/Resources/Models/Sonoran_Models/Ocotillo/stamen.obj
+- Assets/Resources/Models/Sonoran_Models/Ocotillo/Materials/material_0.001.mat
 - Assets/Resources/Models/Sonoran_Models/Ocotillo/anthers.mtl
-- Assets/Resources/Models/Sonoran_Models/Ocotillo/OcotilloWhole.prefab
+- Assets/Resources/Models/Sonoran_Models/Ocotillo/Materials/material_0.001_NONE.mat
+- Assets/Resources/Models/Sonoran_Models/Ocotillo/stem.mtl
 - Assets/Resources/Prefabs/Sonoran/Ocotillo.prefab
 - Assets/Resources/Models/Sonoran_Models/Ocotillo/Materials/Material.001.mat
 Dependencies: []

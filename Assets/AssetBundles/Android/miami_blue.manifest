@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 489040759
+CRC: 2105058646
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47ff7fa70fe6d5ffc1295beb22505dc8
+    Hash: 0f7e0c3ca3c2089e954c22439ddc73a9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1cf0694ddd459f068dcb54f89d29d31d
+    Hash: 8b072d112b02482ebffbc468d2cbf29f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,10 +39,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 539389d15a7ff4d5bb1347281c1c9993, type: 3}
-- Class: 114
-  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
@@ -84,15 +80,16 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Models/Florida_Museum/MiamiBlue Model 2/Miamiedit2_Textured0000_.jpg
+- Assets/Resources/Models/Florida_Museum/Miami_Blue/Miamiedit2_Textured0000_.jpg
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Optimized-Miami_Blue_larva.jpg
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Miami_Blue_habitat_In_Key_West_National_Wildlife_Refuge.JPG
-- Assets/Resources/Models/Florida_Museum/MiamiBlue Model 2/Materials/Miamiedit2_Textured0000.mat
-- Assets/Resources/Models/Florida_Museum/MiamiBlue Model 2/bu__.fbx
+- Assets/Resources/Audio/Florida/Miami Blue-FINAL.mp3
+- Assets/Resources/Models/Florida_Museum/Miami_Blue/Materials/Miamiedit2_Textured0000.mat
+- Assets/Resources/Models/Florida_Museum/Miami_Blue/bu__.fbx
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Larvae tended by ants-p1baqa24fh41ds1phucrr4hq(1).png
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Miami blue pupa-p1baqa326k1meeaghkjk1uhes6u(1).png
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/blackbead.jpg
-- Assets/Resources/Models/Florida_Museum/MiamiBlue Model 2/MiamiController.controller
+- Assets/Resources/Models/Florida_Museum/Miami_Blue/MiamiController.controller
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/nickerbean.jpg
 - Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Maimi_Blue_host_plant_Blackbead_Pithecellobium_keyense_.JPG
 - Assets/Resources/Prefabs/Florida/MiamiBlue.prefab
