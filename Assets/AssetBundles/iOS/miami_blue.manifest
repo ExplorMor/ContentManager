@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3253212773
+CRC: 2021198963
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a6569c73d9a655cdd219611fe6661a8f
+    Hash: f73f6441c3d96a558b0fb49f5ad6cb11
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8b072d112b02482ebffbc468d2cbf29f
@@ -81,16 +81,16 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Models/Florida_Museum/Miami_Blue/Miamiedit2_Textured0000_.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Optimized-Miami_Blue_larva.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Miami_Blue_habitat_In_Key_West_National_Wildlife_Refuge.JPG
+- Assets/Resources/Images/Florida_Graphics/Miami/Optimized-Miami_Blue_larva.jpg
+- Assets/Resources/Images/Florida_Graphics/Miami/Miami_Blue_habitat_In_Key_West_National_Wildlife_Refuge.JPG
 - Assets/Resources/Audio/Florida/Miami Blue-FINAL.mp3
 - Assets/Resources/Models/Florida_Museum/Miami_Blue/Materials/Miamiedit2_Textured0000.mat
 - Assets/Resources/Models/Florida_Museum/Miami_Blue/bu__.fbx
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Larvae tended by ants-p1baqa24fh41ds1phucrr4hq(1).png
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Miami blue pupa-p1baqa326k1meeaghkjk1uhes6u(1).png
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/blackbead.jpg
+- Assets/Resources/Images/Florida_Graphics/Miami/Larvae tended by ants-p1baqa24fh41ds1phucrr4hq(1).png
+- Assets/Resources/Images/Florida_Graphics/Miami/Miami blue pupa-p1baqa326k1meeaghkjk1uhes6u(1).png
+- Assets/Resources/Images/Florida_Graphics/Miami/blackbead.jpg
 - Assets/Resources/Models/Florida_Museum/Miami_Blue/MiamiController.controller
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/nickerbean.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Miami/Maimi_Blue_host_plant_Blackbead_Pithecellobium_keyense_.JPG
+- Assets/Resources/Images/Florida_Graphics/Miami/nickerbean.jpg
+- Assets/Resources/Images/Florida_Graphics/Miami/Maimi_Blue_host_plant_Blackbead_Pithecellobium_keyense_.JPG
 - Assets/Resources/Prefabs/Florida/MiamiBlue.prefab
 Dependencies: []

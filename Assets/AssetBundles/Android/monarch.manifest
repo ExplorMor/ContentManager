@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3156555951
+CRC: 658319723
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff2bcda8d51954d7f5cb2439afc553b7
+    Hash: a16416937ee647f1ddbbcd294db5c6de
   TypeTreeHash:
     serializedVersion: 2
     Hash: 83f19dbcf6ae223a6c51e8382348406c
@@ -86,18 +86,18 @@ ClassTypes:
 Assets:
 - Assets/Resources/Models/Florida_Museum/Monarch/Optimized-Body.png
 - Assets/Resources/Models/Florida_Museum/Monarch/Materials/Material.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image031.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image031.jpg
 - Assets/Resources/Models/Florida_Museum/Monarch/Materials/Body.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image065.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image066.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image065.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image066.jpg
 - Assets/Resources/Audio/Florida/Monarch Butterfly.mp3
 - Assets/Resources/Models/Florida_Museum/Monarch/Optimized-HigherWings.png
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image028.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image030.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image032.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image028.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image030.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image032.jpg
 - Assets/Resources/Models/Florida_Museum/Monarch/Optimized-LowerWIngs.png
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image027.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Monarch/image029.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image027.jpg
+- Assets/Resources/Images/Florida_Graphics/Monarch/image029.jpg
 - Assets/Resources/Models/Florida_Museum/Monarch/MonarchController.controller
 - Assets/Resources/Models/Florida_Museum/Monarch/Materials/High_Wing.001.mat
 - Assets/Resources/Models/Florida_Museum/Monarch/Monarch.fbx

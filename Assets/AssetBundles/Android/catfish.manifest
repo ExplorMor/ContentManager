@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 426215938
+CRC: 2889882879
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f2250a12904ed4af43297fb2e15b0b2e
+    Hash: 3d753eeba523a3866ad082226ae9f597
   TypeTreeHash:
     serializedVersion: 2
     Hash: c14aaf14d6c22f9a74915f56c938519d
@@ -91,7 +91,7 @@ Assets:
 - Assets/Resources/Models/Libraries_of_Life_Models/CATFISH/CC0-base-water-texture_small.jpg
 - Assets/Resources/Models/Libraries_of_Life_Models/CATFISH/Materials/channel-catfish-eye.mat
 - Assets/Resources/Materials/CatfishThumbnail.mat
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/VideoThumbnails/lake.png
+- Assets/Resources/Images/iDigBio_Graphics/VideoThumbnails/lake.png
 - Assets/Resources/Audio/LibrariesOfLife/catfish.mp3
 - Assets/Resources/Models/Libraries_of_Life_Models/CATFISH/AnimatedCatfish.controller
 - Assets/Resources/Text/catfish.txt

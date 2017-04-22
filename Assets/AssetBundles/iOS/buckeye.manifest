@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1740105245
+CRC: 4287268468
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba34369863d956744dadb5279c931f46
+    Hash: 85a10e3117afe876b3513fcb8ad0ec1c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -70,17 +70,17 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Models/Florida_Museum/Buckeye/Buckeye.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Buckeye/image062.jpg
+- Assets/Resources/Images/Florida_Graphics/Buckeye/image062.jpg
 - Assets/Resources/Models/Florida_Museum/Buckeye/buckeye.mtl
 - Assets/Resources/Models/Florida_Museum/Buckeye/Materials/Material.mat
 - Assets/Resources/Models/Florida_Museum/Buckeye/Materials/material_0.001.mat
 - Assets/Resources/Models/Florida_Museum/Buckeye/Materials/Material.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Buckeye/image061.jpg
+- Assets/Resources/Images/Florida_Graphics/Buckeye/image061.jpg
 - Assets/Resources/Prefabs/Florida/Buckeye.prefab
+- Assets/Resources/Models/Florida_Museum/Buckeye/Buckeye042017_Buckeye-mat_00001.png
 - Assets/Resources/Models/Florida_Museum/Buckeye/buckeye.obj
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Buckeye/image010.jpg
+- Assets/Resources/Images/Florida_Graphics/Buckeye/image010.jpg
 - Assets/Resources/Audio/Florida/Common Buckeye.mp3
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Buckeye/image060.jpg
+- Assets/Resources/Images/Florida_Graphics/Buckeye/image060.jpg
 - Assets/Resources/Models/Florida_Museum/Buckeye/Materials/Buckeye-mat_0.mat
 Dependencies: []

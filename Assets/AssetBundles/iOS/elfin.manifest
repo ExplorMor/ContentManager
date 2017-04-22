@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1743121267
+CRC: 1870021597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d16622ce9e84f35573ace8a9c23d5b06
+    Hash: 7a5be1dcbff624a7b31292ef5c3c7e45
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -70,13 +70,13 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Elfin/image012.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Elfin/image064.jpg
+- Assets/Resources/Images/Florida_Graphics/Elfin/image012.jpg
+- Assets/Resources/Images/Florida_Graphics/Elfin/image064.jpg
 - Assets/Resources/Models/Florida_Museum/Elfin/Materials/Material.mat
 - Assets/Resources/Models/Florida_Museum/Elfin/Materials/material_0.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Elfin/image011.jpg
+- Assets/Resources/Images/Florida_Graphics/Elfin/image011.jpg
 - Assets/Resources/Models/Florida_Museum/Elfin/Materials/material_0.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Elfin/image063.jpg
+- Assets/Resources/Images/Florida_Graphics/Elfin/image063.jpg
 - Assets/Resources/Models/Florida_Museum/Elfin/eLFIN_bUTTERFLY_2.jpg
 - Assets/Resources/Models/Florida_Museum/Elfin/Materials/material_0.002.mat
 - Assets/Resources/Models/Florida_Museum/Elfin/Materials/material_0_NONE.mat

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2316949318
+CRC: 4012950111
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 706939c3f0a3f468237cc994e20cb156
+    Hash: 44290212337aa85d7c1fb5c6256641f2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -70,20 +70,19 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image016.jpg
+- Assets/Resources/Models/Florida_Museum/Duskywing/dusky.obj
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image016.jpg
 - Assets/Resources/Models/Florida_Museum/Duskywing/Materials/Material.001.mat
 - Assets/Resources/Models/Florida_Museum/Duskywing/dustywing_duskymaterial_0.jpg
-- Assets/Resources/Models/Florida_Museum/Duskywing/dusky_folded.obj
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image015.jpg
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image015.jpg
 - Assets/Resources/Models/Florida_Museum/Duskywing/Materials/material_0.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image013.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image019.jpg
-- Assets/Resources/Models/Florida_Museum/Duskywing/dusky_folded.mtl
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image017.jpg
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image013.jpg
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image019.jpg
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image017.jpg
 - Assets/Resources/Models/Florida_Museum/Duskywing/Materials/material_0_NONE.mat
-- Assets/Resources/Audio/Florida/Florida Duskwing.mp3
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image014.jpg
+- Assets/Resources/Models/Florida_Museum/Duskywing/dusky.mtl
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image014.jpg
 - Assets/Resources/Prefabs/Florida/Duskywing.prefab
 - Assets/Resources/Models/Florida_Museum/Duskywing/Materials/material_0.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Duskywing/image018.jpg
+- Assets/Resources/Images/Florida_Graphics/Duskywing/image018.jpg
 Dependencies: []

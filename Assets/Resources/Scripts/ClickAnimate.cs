@@ -32,7 +32,6 @@ public class ClickAnimate : MonoBehaviour {
 
 	public void AnimationPlay()
 	{	
-		Debug.Log ("hit");
 		if (animatorController != null) 
 		{
 			if (animatorController.GetCurrentAnimatorStateInfo (0).IsName ("Done"))

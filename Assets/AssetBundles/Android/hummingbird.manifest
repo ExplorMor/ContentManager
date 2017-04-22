@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3385911735
+CRC: 2448872064
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4c2dc30b71c9bb23fdd2c60a01fa934f
+    Hash: dc1198f89a2d934983eb722d6105f9bf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 54d6144060d365b9c3b8d8025b24b68f
@@ -80,7 +80,7 @@ Assets:
 - Assets/Resources/Models/Libraries_of_Life_Models/RUBYHUMMINGBIRD/Materials/defaultMat.mat
 - Assets/Resources/Materials/HummingbirdThumbnail.mat
 - Assets/Resources/Audio/LibrariesOfLife/hummingbirds.mp3
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/VideoThumbnails/hummingbird.png
+- Assets/Resources/Images/iDigBio_Graphics/VideoThumbnails/hummingbird.png
 - Assets/Resources/Models/Libraries_of_Life_Models/RUBYHUMMINGBIRD/Materials/Ruby2.jpg
 - Assets/Resources/Text/hummingbird.txt
 Dependencies: []

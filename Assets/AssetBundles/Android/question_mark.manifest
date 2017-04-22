@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1880378285
+CRC: 3381309109
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e959bef2b12144ed6ce04ab56ee28103
+    Hash: e600869ed2445277bcbad4a6c84d4136
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -72,16 +72,16 @@ ClassTypes:
 Assets:
 - Assets/Resources/Models/Florida_Museum/Question_Mark/Materials/Material.mat
 - Assets/Resources/Models/Florida_Museum/Question_Mark/question_mark.obj
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Question_Mark/image044.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Question_Mark/image041.jpg
+- Assets/Resources/Images/Florida_Graphics/Question_Mark/image044.jpg
+- Assets/Resources/Images/Florida_Graphics/Question_Mark/image041.jpg
 - Assets/Resources/Models/Florida_Museum/Question_Mark/Question Mark.jpg
 - Assets/Resources/Prefabs/Florida/QuestionMark.prefab
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Question_Mark/image043.jpg
+- Assets/Resources/Images/Florida_Graphics/Question_Mark/image043.jpg
 - Assets/Resources/Models/Florida_Museum/Question_Mark/Materials/material_0.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Question_Mark/image040.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Question_Mark/image039.jpg
+- Assets/Resources/Images/Florida_Graphics/Question_Mark/image040.jpg
+- Assets/Resources/Images/Florida_Graphics/Question_Mark/image039.jpg
 - Assets/Resources/Models/Florida_Museum/Question_Mark/Materials/material_0.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Question_Mark/image042.jpg
+- Assets/Resources/Images/Florida_Graphics/Question_Mark/image042.jpg
 - Assets/Resources/Audio/Florida/Question Mark.mp3
 - Assets/Resources/Models/Florida_Museum/Question_Mark/question_mark.mtl
 Dependencies: []

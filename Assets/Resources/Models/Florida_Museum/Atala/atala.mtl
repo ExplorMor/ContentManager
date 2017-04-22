@@ -1,52 +1,45 @@
-# Blender MTL File: 'atala.blend'
-# Material Count: 5
-
 newmtl Material
-Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
 Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
+d 1
+Ns 0.00000
 illum 1
-map_Kd AtalaFInal_material_0.jpg
+map_Kd Atala_Material.jpg
 
 newmtl Material_NONE
-Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
 Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
+d 1
+Ns 0.00000
 illum 1
-map_Kd AtalaFInal_material_0.jpg
+map_Kd Atala_Material_NONE.jpg
 
 newmtl None
-Ns 0
-Ka 0.000000 0.000000 0.000000
-Kd 0.8 0.8 0.8
-Ks 0.8 0.8 0.8
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
 d 1
-illum 2
-map_Kd AtalaFInal_GeneratedMat2.png
+Ns 0.00000
+illum 1
+map_Kd Atala_None.png
 
 newmtl None_AtalaFInal_GeneratedMat1.png
-Ns 0
-Ka 0.000000 0.000000 0.000000
-Kd 0.8 0.8 0.8
-Ks 0.8 0.8 0.8
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
 d 1
-illum 2
-map_Kd AtalaFInal_GeneratedMat1.png
+Ns 0.00000
+illum 1
+map_Kd Atala_None_AtalaFInal_GeneratedMat1.png.png
 
 newmtl material_1
-Ns 0.000000
-Ka 0.200000 0.200000 0.200000
-Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
+d 1
+Ns 0.00000
+illum 1
+
+newmtl NO_MATERIAL
+Ka 1.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1

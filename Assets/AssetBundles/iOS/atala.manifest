@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2648834903
+CRC: 3788789067
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dd6e64dd0d14f90f3b936082ca647f33
+    Hash: 641932b73d7a767616e7d103c5ff36cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -71,18 +71,19 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Prefabs/Florida/Atala.prefab
+- Assets/Resources/Models/Florida_Museum/Atala/Atala_Material.jpg
 - Assets/Resources/Models/Florida_Museum/Atala/Materials/None_AtalaFInal_GeneratedMat1.png.mat
 - Assets/Resources/Models/Florida_Museum/Atala/Materials/material_1.mat
 - Assets/Resources/Audio/Florida/Atala.mp3
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Atala/image003.jpg
+- Assets/Resources/Images/Florida_Graphics/Atala/image003.jpg
 - Assets/Resources/Models/Florida_Museum/Atala/Materials/Material_NONE.mat
-- Assets/Resources/Models/Florida_Museum/Atala/atala.obj
 - Assets/Resources/Models/Florida_Museum/Atala/Materials/None.mat
-- Assets/Resources/Models/Florida_Museum/Atala/atala.mtl
 - Assets/Resources/Models/Florida_Museum/Atala/Materials/Material.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Atala/image002.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Atala/image059.jpg
+- Assets/Resources/Models/Florida_Museum/Atala/Atala.obj
+- Assets/Resources/Models/Florida_Museum/Atala/Atala.mtl
+- Assets/Resources/Images/Florida_Graphics/Atala/image002.jpg
+- Assets/Resources/Images/Florida_Graphics/Atala/image059.jpg
 - Assets/Resources/Models/Florida_Museum/Atala/AtalaFInal_material_0.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Atala/image001.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Atala/image004.jpg
+- Assets/Resources/Images/Florida_Graphics/Atala/image001.jpg
+- Assets/Resources/Images/Florida_Graphics/Atala/image004.jpg
 Dependencies: []

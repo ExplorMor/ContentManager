@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3036208218
+CRC: 1824712360
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 312e4d61bdee276240d44fd0d3bdfa71
+    Hash: 8b44d2f7afc0b59e8483bc498629c410
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -70,22 +70,22 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image003.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image003.jpg
 - Assets/Resources/Prefabs/Florida/Schaus.prefab
 - Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image047.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image070.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image047.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image070.jpg
 - Assets/Resources/Models/Florida_Museum/Schaus/Schaus_Swallowtail.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image048.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image048.jpg
 - Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.002.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image046.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image046.jpg
 - Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.001_NONE.mat
 - Assets/Resources/Models/Florida_Museum/Schaus/schaus_folded.obj
 - Assets/Resources/Audio/Florida/Shaus Swallowtail.mp3
 - Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image002.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image001.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Schaus/image045.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image002.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image001.jpg
+- Assets/Resources/Images/Florida_Graphics/Schaus/image045.jpg
 - Assets/Resources/Models/Florida_Museum/Schaus/Materials/Material.mat
 - Assets/Resources/Models/Florida_Museum/Schaus/schaus_folded.mtl
 Dependencies: []

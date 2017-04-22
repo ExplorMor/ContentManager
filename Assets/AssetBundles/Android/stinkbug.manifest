@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2517502454
+CRC: 2579810455
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 262720cec7d237dbc45e80eb9ec377c3
+    Hash: f887e663ce3effcc530c572b1844ff25
   TypeTreeHash:
     serializedVersion: 2
     Hash: 54d6144060d365b9c3b8d8025b24b68f
@@ -75,12 +75,12 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Text/stinkbug.txt
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/Optimized-Stinkbug_parasitoid.jpg
+- Assets/Resources/Images/iDigBio_Graphics/Optimized-Stinkbug_parasitoid.jpg
 - Assets/Resources/Prefabs/iDigBio/Stinkbug.prefab
 - Assets/Resources/Materials/StinkbugThumbnail.mat
 - Assets/Resources/Audio/LibrariesOfLife/stink_bug.mp3
 - Assets/Resources/Models/Libraries_of_Life_Models/STINKBUG/Materials/defaultMat.mat
 - Assets/Resources/Models/Libraries_of_Life_Models/STINKBUG/Materials/Stinkbug0001.jpg
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/VideoThumbnails/parasitoid.png
+- Assets/Resources/Images/iDigBio_Graphics/VideoThumbnails/parasitoid.png
 - Assets/Resources/Models/Libraries_of_Life_Models/STINKBUG/stinkbug.obj
 Dependencies: []

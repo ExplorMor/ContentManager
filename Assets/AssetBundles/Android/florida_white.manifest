@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 872239393
+CRC: 2686637598
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3652a7c7fec6547734d9359b25c07c39
+    Hash: a816769b01d6c1a10241a2430eaa8a6d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 30639e88ef12cc31e0037a768c5e7872
@@ -71,13 +71,13 @@ Assets:
 - Assets/Resources/Models/Florida_Museum/Florida_White/florida_white.obj
 - Assets/Resources/Audio/Florida/Florida White.mp3
 - Assets/Resources/Models/Florida_Museum/Florida_White/Materials/Material.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Florida_White/image021.jpg
+- Assets/Resources/Images/Florida_Graphics/Florida_White/image021.jpg
 - Assets/Resources/Models/Florida_Museum/Florida_White/Materials/material_0.mat
 - Assets/Resources/Models/Florida_Museum/Florida_White/Materials/material_0_NONE.mat
 - Assets/Resources/Prefabs/Florida/FloridaWhite.prefab
 - Assets/Resources/Models/Florida_Museum/Florida_White/Materials/None.mat
 - Assets/Resources/Models/Florida_Museum/Florida_White/florida_white.mtl
 - Assets/Resources/Models/Florida_Museum/Florida_White/Materials/material_0.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Florida_White/image020.jpg
+- Assets/Resources/Images/Florida_Graphics/Florida_White/image020.jpg
 - Assets/Resources/Models/Florida_Museum/Florida_White/florida_ white.jpg
 Dependencies: []

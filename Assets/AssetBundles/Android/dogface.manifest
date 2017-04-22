@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1817691290
+CRC: 4033399674
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 313b24e6373ca3a3ff589c1a2587e16a
+    Hash: c86d62360582f2cf547a95c22790e289
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -70,18 +70,18 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Dogface/image073.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Dogface/image072.jpg
+- Assets/Resources/Models/Florida_Museum/Dogface/dogface.obj
+- Assets/Resources/Images/Florida_Graphics/Dogface/image073.jpg
+- Assets/Resources/Images/Florida_Graphics/Dogface/image072.jpg
 - Assets/Resources/Models/Florida_Museum/Dogface/Materials/material_0.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Dogface/image071.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Dogface/image053.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Dogface/image054.jpg
+- Assets/Resources/Images/Florida_Graphics/Dogface/image071.jpg
+- Assets/Resources/Images/Florida_Graphics/Dogface/image053.jpg
+- Assets/Resources/Models/Florida_Museum/Dogface/dogface.mtl
+- Assets/Resources/Images/Florida_Graphics/Dogface/image054.jpg
 - Assets/Resources/Models/Florida_Museum/Dogface/Materials/Material.mat
 - Assets/Resources/Models/Florida_Museum/Dogface/Materials/material_0.001.mat
 - Assets/Resources/Models/Florida_Museum/Dogface/Southern.jpg
-- Assets/Resources/Models/Florida_Museum/Dogface/dogface_folded.obj
 - Assets/Resources/Audio/Florida/Southern Dogface.mp3
 - Assets/Resources/Models/Florida_Museum/Dogface/Materials/material_0_NONE.mat
-- Assets/Resources/Models/Florida_Museum/Dogface/dogface_folded.mtl
 - Assets/Resources/Prefabs/Florida/Dogface.prefab
 Dependencies: []

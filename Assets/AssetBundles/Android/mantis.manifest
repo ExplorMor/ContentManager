@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1687847222
+CRC: 1244368539
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2060b19db2007c51259b53afee1ba5c8
+    Hash: 66b2ceb0e8f60879b9e81b6caa15486f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 54d6144060d365b9c3b8d8025b24b68f
@@ -78,7 +78,7 @@ Assets:
 - Assets/Resources/Models/Libraries_of_Life_Models/MANTIS/MantisFINAL copy.obj
 - Assets/Resources/Text/mantis.txt
 - Assets/Resources/Materials/MantisThumbnail.mat
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/VideoThumbnails/mantis.png
+- Assets/Resources/Images/iDigBio_Graphics/VideoThumbnails/mantis.png
 - Assets/Resources/Audio/LibrariesOfLife/mantis (1).mp3
 - Assets/Resources/Prefabs/iDigBio/Mantis.prefab
 - Assets/Resources/Models/Libraries_of_Life_Models/MANTIS/Materials/defaultMat.mat

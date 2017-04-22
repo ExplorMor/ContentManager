@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 77196370
+CRC: 1228800842
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 59449135d69fd3882427c112a365023c
+    Hash: dc4f2909599cfe0f4c1d6340a26101ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: 55df0070ae2954d0a344ad026d4708ec
@@ -70,10 +70,10 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/Optimized-Cladonia_subtenuis_20101219_060_099_JH2315_cFL.jpg
+- Assets/Resources/Images/iDigBio_Graphics/Optimized-Cladonia_subtenuis_20101219_060_099_JH2315_cFL.jpg
 - Assets/Resources/Audio/LibrariesOfLife/Reindeer_lichens.mp3
 - Assets/Resources/Models/Libraries_of_Life_Models/LICHEN/Materials/Cladonia.mat
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/Optimized-Cladonia_evansii_20140324_004_001_JH6262_eNC.jpg
+- Assets/Resources/Images/iDigBio_Graphics/Optimized-Cladonia_evansii_20140324_004_001_JH6262_eNC.jpg
 - Assets/Resources/Prefabs/iDigBio/Lichen.prefab
 - Assets/Resources/Models/Libraries_of_Life_Models/LICHEN/Materials/Cladonia.jpg
 - Assets/Resources/Models/Libraries_of_Life_Models/LICHEN/Cladonia.dae

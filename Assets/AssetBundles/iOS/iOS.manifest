@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 595341481
+CRC: 4168348035
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -102,11 +102,11 @@ AssetBundleManifest:
       Name: atala
       Dependencies: {}
     Info_33:
-      Name: zebra_longwing
-      Dependencies: {}
-    Info_34:
       Name: bartram
       Dependencies: {}
-    Info_35:
+    Info_34:
       Name: silver
+      Dependencies: {}
+    Info_35:
+      Name: zebra
       Dependencies: {}

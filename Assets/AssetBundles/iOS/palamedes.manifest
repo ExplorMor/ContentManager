@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2512077431
+CRC: 2261336817
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 990782e49e9f723bc4af0baaf9dedcc8
+    Hash: 674cc6673f8ba89b09a776fafe793acc
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -71,22 +71,22 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Models/Florida_Museum/Palamedes/palamedes.mtl
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image034.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image035.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image034.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image035.jpg
 - Assets/Resources/Models/Florida_Museum/Palamedes/Palamedes Swallowtail.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image033.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image033.jpg
 - Assets/Resources/Audio/Florida/Palamedes Swallowtail.mp3
 - Assets/Resources/Models/Florida_Museum/Palamedes/Materials/PalamedesSwa-mat_0_NONE.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image037.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image038.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image036.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image037.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image038.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image036.jpg
 - Assets/Resources/Models/Florida_Museum/Palamedes/Materials/PalamedesSwa-mat_0.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image067.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image067.jpg
 - Assets/Resources/Models/Florida_Museum/Palamedes/Materials/material_0.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image068.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image068.jpg
 - Assets/Resources/Prefabs/Florida/Palamedes.prefab
 - Assets/Resources/Models/Florida_Museum/Palamedes/palamedes.obj
 - Assets/Resources/Models/Florida_Museum/Palamedes/Materials/Material.001.mat
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Palamedes/image069.jpg
+- Assets/Resources/Images/Florida_Graphics/Palamedes/image069.jpg
 - Assets/Resources/Models/Florida_Museum/Palamedes/Materials/Material.mat
 Dependencies: []

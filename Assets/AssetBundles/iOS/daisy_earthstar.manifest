@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 97179034
+CRC: 2771000098
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53fde5929d824245ca4257f6193ca96b
+    Hash: de6040e68a8077856155b2361634c411
   TypeTreeHash:
     serializedVersion: 2
     Hash: 54d6144060d365b9c3b8d8025b24b68f
@@ -83,7 +83,7 @@ Assets:
 - Assets/Resources/Models/Libraries_of_Life_Models/DAISYEARTHSTAR/Open/Materials/open
   petal macrofungi.jpg
 - Assets/Resources/Models/Libraries_of_Life_Models/DAISYEARTHSTAR/Closed/Materials/macrofungi2.jpg
-- Assets/Resources/Images/AR_Graphics/iDigBio_Graphics/VideoThumbnails/daisy_star.png
+- Assets/Resources/Images/iDigBio_Graphics/VideoThumbnails/daisy_star.png
 - Assets/Resources/Models/Libraries_of_Life_Models/DAISYEARTHSTAR/Closed/macrofungi2
   copy.obj
 - Assets/Resources/Models/Libraries_of_Life_Models/DAISYEARTHSTAR/FullyClosed/Materials/untitled0000.jpg

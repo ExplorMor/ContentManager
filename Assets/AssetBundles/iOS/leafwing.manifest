@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3824029037
+CRC: 2282151062
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc052e143f9e3a65f927a86dcac7a762
+    Hash: cc6a00c97ac38191a2b8a80a8393c082
   TypeTreeHash:
     serializedVersion: 2
     Hash: f1d6e87b51e254be60d84f5f99859454
@@ -74,16 +74,15 @@ ClassTypes:
 Assets:
 - Assets/Resources/Models/Florida_Museum/Leaf_Wing/leafwing.jpg
 - Assets/Resources/Audio/Florida/Florida Leafwing.mp3
-- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/Material.mat
-- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_0_NONE.mat
-- Assets/Resources/Models/Florida_Museum/Leaf_Wing/leaf_wing_folded.mtl
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image023.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image026.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image022.jpg
-- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_0.001.mat
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_1.mat
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_2.mat
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Leafwing042117-2.obj
+- Assets/Resources/Models/Florida_Museum/Leaf_Wing/Leafwing042117-2.obj.mtl
+- Assets/Resources/Images/Florida_Graphics/Leafwing/image023.jpg
+- Assets/Resources/Images/Florida_Graphics/Leafwing/image026.jpg
+- Assets/Resources/Images/Florida_Graphics/Leafwing/image022.jpg
 - Assets/Resources/Prefabs/Florida/Leafwing.prefab
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image024.jpg
-- Assets/Resources/Images/AR_Graphics/Florida_Graphics/Leafwing/image025.jpg
-- Assets/Resources/Models/Florida_Museum/Leaf_Wing/leaf_wing_folded.obj
+- Assets/Resources/Images/Florida_Graphics/Leafwing/image024.jpg
+- Assets/Resources/Images/Florida_Graphics/Leafwing/image025.jpg
 - Assets/Resources/Models/Florida_Museum/Leaf_Wing/Materials/material_0.mat
 Dependencies: []
