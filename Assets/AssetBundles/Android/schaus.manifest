@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1132876183
+CRC: 2485651979
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 37da07604e7a044c819465ade830c69e
+    Hash: 426308788f6155f3dc0037ba1a275d75
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -72,20 +72,15 @@ ClassTypes:
 Assets:
 - Assets/Resources/Images/Florida_Graphics/Schaus/image003.jpg
 - Assets/Resources/Prefabs/Florida/Schaus.prefab
-- Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.mat
+- Assets/Resources/Models/Florida_Museum/Schaus/Schaus0422_material_0.001_NONE.jpg
 - Assets/Resources/Images/Florida_Graphics/Schaus/image047.jpg
 - Assets/Resources/Images/Florida_Graphics/Schaus/image070.jpg
-- Assets/Resources/Models/Florida_Museum/Schaus/Schaus_Swallowtail.jpg
 - Assets/Resources/Images/Florida_Graphics/Schaus/image048.jpg
-- Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.002.mat
 - Assets/Resources/Images/Florida_Graphics/Schaus/image046.jpg
-- Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.001_NONE.mat
-- Assets/Resources/Models/Florida_Museum/Schaus/schaus_folded.obj
+- Assets/Resources/Models/Florida_Museum/Schaus/Materials/mmGroup0Mat.mat
 - Assets/Resources/Audio/Florida/Shaus Swallowtail.mp3
-- Assets/Resources/Models/Florida_Museum/Schaus/Materials/material_0.001.mat
 - Assets/Resources/Images/Florida_Graphics/Schaus/image002.jpg
 - Assets/Resources/Images/Florida_Graphics/Schaus/image001.jpg
 - Assets/Resources/Images/Florida_Graphics/Schaus/image045.jpg
-- Assets/Resources/Models/Florida_Museum/Schaus/Materials/Material.mat
-- Assets/Resources/Models/Florida_Museum/Schaus/schaus_folded.mtl
+- Assets/Resources/Models/Florida_Museum/Schaus/Schaus0422.obj
 Dependencies: []

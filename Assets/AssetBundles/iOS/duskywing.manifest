@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 636336488
+CRC: 1832887144
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 87e203a29c41d513d072eaa9c246543b
+    Hash: 62bd80acc5afe49d18a61093d091adcb
   TypeTreeHash:
     serializedVersion: 2
     Hash: c403fbb1018c95cf9fa2862546311745
@@ -70,19 +70,15 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Models/Florida_Museum/Duskywing/dusky.obj
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image016.jpg
-- Assets/Resources/Models/Florida_Museum/Duskywing/Materials/Material.001.mat
-- Assets/Resources/Models/Florida_Museum/Duskywing/dustywing_duskymaterial_0.jpg
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image015.jpg
-- Assets/Resources/Models/Florida_Museum/Duskywing/Materials/material_0.mat
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image013.jpg
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image019.jpg
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image017.jpg
-- Assets/Resources/Models/Florida_Museum/Duskywing/Materials/material_0_NONE.mat
-- Assets/Resources/Models/Florida_Museum/Duskywing/dusky.mtl
+- Assets/Resources/Models/Florida_Museum/Duskywing/Materials/mmGroup0Mat.mat
+- Assets/Resources/Models/Florida_Museum/Duskywing/Duskywing0422_material_0.jpg
+- Assets/Resources/Models/Florida_Museum/Duskywing/Duskywing0422.obj
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image014.jpg
 - Assets/Resources/Prefabs/Florida/Duskywing.prefab
-- Assets/Resources/Models/Florida_Museum/Duskywing/Materials/material_0.001.mat
 - Assets/Resources/Images/Florida_Graphics/Duskywing/image018.jpg
 Dependencies: []
