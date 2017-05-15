@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2651490161
+CRC: 3492269284
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 81b7e3e0d794caadd83ebe926c948938
+    Hash: 2ff869975d8b7a0e88d262c30b4a5649
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c403fbb1018c95cf9fa2862546311745
+    Hash: 677a29cbe35e7b6381d2ea4a16e170ba
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,41 +25,55 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
 - Class: 82
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-- Class: 114
   Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-- Class: 114
-  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-- Class: 114
   Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0ae7ce59a10ad25429c1a8b23b182cda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3148a21769fd4054491cfd7819e338ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bd5da6a9a76441c28cb5294452f6e49, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
@@ -70,13 +84,13 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Models/Florida_Museum/Silver/Silverstreak FINAL_Textured.jpg
-- Assets/Resources/Models/Florida_Museum/Silver/Silverstreak FINAL.mtl
+- Assets/Resources/Models/Florida_Museum/Silver/Materials/lambert1.mat
 - Assets/Resources/Prefabs/Florida/Silver.prefab
 - Assets/Resources/Images/Florida_Graphics/Silver/image049.jpg
-- Assets/Resources/Models/Florida_Museum/Silver/Silverstreak FINAL.obj
-- Assets/Resources/Models/Florida_Museum/Silver/Materials/mmGroup0Mat.mat
+- Assets/Resources/Models/Florida_Museum/Silver/SilverController.controller
 - Assets/Resources/Images/Florida_Graphics/Silver/image051.jpg
+- Assets/Resources/Models/Florida_Museum/Silver/butterfly.FBX
+- Assets/Resources/Models/Florida_Museum/Silver/Silverstreak FINAL_Textured.jpg
 - Assets/Resources/Images/Florida_Graphics/Silver/image050.jpg
 - Assets/Resources/Images/Florida_Graphics/Silver/image052.jpg
 Dependencies: []
